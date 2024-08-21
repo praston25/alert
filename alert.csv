@@ -1,5 +1,3 @@
-Symbol,Crossing,Price,Messages
-BTCUSDT,up,736832463,FVG+ Daily
-,,,
-,,,
-BTCUSDT,down,12379123,FVG+ Daily
+Symbol,Crossing,Price,Messages,Alert
+123123,down,123123,123123123,false
+123123,down,123123123,123123123,false
