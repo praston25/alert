@@ -1,0 +1,5 @@
+symbol, crossing, price, messages, alert
+BTCUSDT, above, 56000, FVG+ Daily, false
+ETHUSDT, below, 0.001, Entry, true
+JUSTUSDT, above, 0.000001, TP10, false
+JUSTUSDT, above, 0.1, SL+, true
