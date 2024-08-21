@@ -1,28 +1,82 @@
-symbol, crossing, price, messages, alert
-BTCUSDT, above, 56000, FVG+ Daily, false
-ETHUSDT, below, 0.001, Entry, true
-JUSTUSDT, above, 0.000001, TP10, false
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
-JUSTUSDT, above, 0.1, SL+, true
+Symbol,Crossing,Price,Messages
+BTCUSDT, above, 56000, FVG+ Daily
+ETHUSDT, below, 0.001, Entry
+JUSTUSDT, above, 0.000001, TP10
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+BTCUSDT, above, 56000, FVG+ Daily
+ETHUSDT, below, 0.001, Entry
+JUSTUSDT, above, 0.000001, TP10
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+BTCUSDT, above, 56000, FVG+ Daily
+ETHUSDT, below, 0.001, Entry
+JUSTUSDT, above, 0.000001, TP10
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
+JUSTUSDT, above, 0.1, SL+
