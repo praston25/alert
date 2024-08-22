@@ -1,80 +1,80 @@
 Symbol,Crossing,Price,Messages,Alert,Date
-QNTUSDT,above,1,test,FALSE,
-COMPUSDT,above,1,test,FALSE,
-IMXUSDT,above,1,test,FALSE,
-ATOMUSDT,above,1,test,FALSE,
-JTOUSDT,above,1,test,FALSE,
+QNTUSDT,above,1,test,true,2024-08-22 15:15:06
+COMPUSDT,above,1,test,true,2024-08-22 15:15:09
+IMXUSDT,above,1,test,true,2024-08-22 15:15:12
+ATOMUSDT,above,1,test,true,2024-08-22 15:15:15
+JTOUSDT,above,1,test,true,2024-08-22 15:15:20
 MANAUSDT,above,1,test,FALSE,
 SUIUSDT,above,1,test,FALSE,
-BCHUSDT,above,1,test,FALSE,
+BCHUSDT,above,1,test,true,2024-08-22 15:15:29
 ALPHAUSDT,above,1,test,FALSE,
 ADAUSDT,above,1,test,FALSE,
-MKRUSDT,above,1,test,FALSE,
-STXUSDT,above,1,test,FALSE,
+MKRUSDT,above,1,test,true,2024-08-22 15:15:38
+STXUSDT,above,1,test,true,2024-08-22 15:15:41
 STORJUSDT,above,1,test,FALSE,
 CHZUSDT,above,1,test,FALSE,
-GMXUSDT,above,1,test,FALSE,
-PHBUSDT,above,1,test,FALSE,
-INJUSDT,above,1,test,FALSE,
+GMXUSDT,above,1,test,true,2024-08-22 15:15:51
+PHBUSDT,above,1,test,true,2024-08-22 15:15:54
+INJUSDT,above,1,test,true,2024-08-22 15:15:57
 1000SHIBUSDT,above,1,test,FALSE,
-SOLUSDT,above,1,test,FALSE,
-AVAXUSDT,above,1,test,FALSE,
-UNIUSDT,above,1,test,FALSE,
-ETHUSDT,above,1,test,FALSE,
+SOLUSDT,above,1,test,true,2024-08-22 15:16:03
+AVAXUSDT,above,1,test,true,2024-08-22 15:16:06
+UNIUSDT,above,1,test,true,2024-08-22 15:16:09
+ETHUSDT,above,1,test,true,2024-08-22 15:16:13
 GRTUSDT,above,1,test,FALSE,
 APEUSDT,above,1,test,FALSE,
 XVGUSDT,above,1,test,FALSE,
-ARKMUSDT,above,1,test,FALSE,
+ARKMUSDT,above,1,test,true,2024-08-22 15:16:25
 KAVAUSDT,above,1,test,FALSE,
-BNBUSDT,above,1,test,FALSE,
+BNBUSDT,above,1,test,true,2024-08-22 15:16:31
 BAKEUSDT,above,1,test,FALSE,
-LINKUSDT,above,1,test,FALSE,
-DOTUSDT,above,1,test,FALSE,
+LINKUSDT,above,1,test,true,2024-08-22 15:16:38
+DOTUSDT,above,1,test,true,2024-08-22 15:16:41
 TRUUSDT,above,1,test,FALSE,
 MEMEUSDT,above,1,test,FALSE,
 MATICUSDT,above,1,test,FALSE,
 BNTUSDT,above,1,test,FALSE,
 LQTYUSDT,above,1,test,FALSE,
-APTUSDT,above,1,test,FALSE,
+APTUSDT,above,1,test,true,2024-08-22 15:16:59
 WOOUSDT,above,1,test,FALSE,
-BTCUSDT,above,1,test,FALSE,
-ZENUSDT,above,1,test,FALSE,
+BTCUSDT,above,1,test,true,2024-08-22 15:17:05
+ZENUSDT,above,1,test,true,2024-08-22 15:17:08
 XRPUSDT,above,1,test,FALSE,
 USDCUSDT,above,1,test,FALSE,
 HIFIUSDT,above,1,test,FALSE,
-ORDIUSDT,above,1,test,FALSE,
+ORDIUSDT,above,1,test,true,2024-08-22 15:17:20
 BLZUSDT,above,1,test,FALSE,
 AMBUSDT,above,1,test,FALSE,
 RIFUSDT,above,1,test,FALSE,
 YGGUSDT,above,1,test,FALSE,
-AAVEUSDT,above,1,test,FALSE,
+AAVEUSDT,above,1,test,true,2024-08-22 15:17:36
 KNCUSDT,above,1,test,FALSE,
 AGLDUSDT,above,1,test,FALSE,
-LDOUSDT,above,1,test,FALSE,
-NEARUSDT,above,1,test,FALSE,
-AXSUSDT,above,1,test,FALSE,
-LTCUSDT,above,1,test,FALSE,
+LDOUSDT,above,1,test,true,2024-08-22 15:17:45
+NEARUSDT,above,1,test,true,2024-08-22 15:17:48
+AXSUSDT,above,1,test,true,2024-08-22 15:17:51
+LTCUSDT,above,1,test,true,2024-08-22 15:17:54
 MINAUSDT,above,1,test,FALSE,
-ICPUSDT,above,1,test,FALSE,
-ETCUSDT,above,1,test,FALSE,
+ICPUSDT,above,1,test,true,2024-08-22 15:18:00
+ETCUSDT,above,1,test,true,2024-08-22 15:18:04
 MAGICUSDT,above,1,test,FALSE,
 ARBUSDT,above,1,test,FALSE,
 DOGEUSDT,above,1,test,FALSE,
 DUSKUSDT,above,1,test,FALSE,
 TRXUSDT,above,1,test,FALSE,
-OPUSDT,above,1,test,FALSE,
+OPUSDT,above,1,test,true,2024-08-22 15:18:22
 XLMUSDT,above,1,test,FALSE,
 SFPUSDT,above,1,test,FALSE,
 IOSTUSDT,above,1,test,FALSE,
 SANDUSDT,above,1,test,FALSE,
 1INCHUSDT,above,1,test,FALSE,
-FXSUSDT,above,1,test,FALSE,
+FXSUSDT,above,1,test,true,2024-08-22 15:18:42
 KLAYUSDT,above,1,test,FALSE,
 ALGOUSDT,above,1,test,FALSE,
 NKNUSDT,above,1,test,FALSE,
 FLOWUSDT,above,1,test,FALSE,
 HBARUSDT,above,1,test,FALSE,
-FILUSDT,above,1,test,FALSE,
+FILUSDT,above,1,test,true,2024-08-22 15:19:00
 ARPAUSDT,above,1,test,FALSE,
 1000PEPEUSDT,above,1,test,FALSE,
 1000LUNCUSDT,above,1,test,FALSE,
