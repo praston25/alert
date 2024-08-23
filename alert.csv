@@ -1,4 +1,5 @@
-Symbol,Crossing,Price,Messages,Alert,Date
+Symbol,Crossing,Price,Messages,Alert,Date, lastTime
+1INCHUSDT,above,0.2685,FVG- Hourly,false,,1724385510356
 1INCHUSDT,above,0.2685,FVG- Hourly,false,,1724385275590
 Symbol,Crossing,Price,Messages,Alert,Date,lastTime
 AXSUSDT,above,10.265,FVG- Daily,false,,1724385234879
