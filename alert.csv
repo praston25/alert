@@ -1,4 +1,5 @@
 Symbol,Crossing,Price,Messages,Alert,Date
+BTCUSDT,above,1,test,false,
 AXSUSDT,above,10.265,FVG- Daily,FALSE,
 AXSUSDT,above,7.887,FVG- Daily,FALSE,
 AXSUSDT,above,6.248,FVG- Daily,FALSE,
