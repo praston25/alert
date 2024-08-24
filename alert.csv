@@ -1,5 +1,5 @@
 Symbol,Crossing,Price,Messages,Alert,Date
-AMBUSDT,above,0.009419,SL,false,
+AMBUSDT,above,0.009419,SL,true,2024-08-24 14:50:00
 ALPHAUSDT,above,0.06505,sl,true,2024-08-24 14:07:00
 ALPHAUSDT,above,0.06479,entry,true,2024-08-24 14:06:00
 QNTUSDT,above,0.06505,SL,true,2024-08-24 13:16:00
