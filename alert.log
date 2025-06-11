@@ -1,0 +1,1874 @@
+Memulai proses pembaruan Google Sheet...
+Berhasil terhubung ke spreadsheet: '1ggG4F-Kz2LIazi0ucfZ_LJuVhiFJF-npU-y-LaGjiOo'
+
+Memproses Baris 2: Symbol=HOT, Binary=B, A=0.001482, B=0.000901, Active=False
+Nilai Fifty untuk baris 2: 0.0011915
+Memanggil API untuk HOT: https://contract.mexc.com/api/v1/contract/kline/HOT_USDT?interval=Day1&start=1749164400
+API respons untuk HOT: Highest High=0.001044, Lowest Low=0.000919
+Untuk HOT: MSS=0.000901, BOS=0.001482
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk HOT.
+Pembaruan dijadwalkan untuk baris 2: Active dari False menjadi True.
+
+Memproses Baris 3: Symbol=DENT, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 3 karena 'a' atau 'b' kosong.
+
+Memproses Baris 4: Symbol=TLM, Binary=B, A=0.007285, B=0.003684, Active=False
+Nilai Fifty untuk baris 4: 0.0054845
+Memanggil API untuk TLM: https://contract.mexc.com/api/v1/contract/kline/TLM_USDT?interval=Day1&start=1749164400
+API respons untuk TLM: Highest High=0.005262, Lowest Low=0.004385
+Untuk TLM: MSS=0.003684, BOS=0.007285
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk TLM.
+Pembaruan dijadwalkan untuk baris 4: Active dari False menjadi True.
+
+Memproses Baris 5: Symbol=CELR, Binary=B, A=0.012415, B=0.00666, Active=False
+Nilai Fifty untuk baris 5: 0.0095375
+Memanggil API untuk CELR: https://contract.mexc.com/api/v1/contract/kline/CELR_USDT?interval=Day1&start=1749164400
+API respons untuk CELR: Highest High=0.009387, Lowest Low=0.007841
+Untuk CELR: MSS=0.00666, BOS=0.012415
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk CELR.
+Pembaruan dijadwalkan untuk baris 5: Active dari False menjadi True.
+
+Memproses Baris 6: Symbol=RSR, Binary=S, A=0.017843, B=0.004471, Active=False
+Nilai Fifty untuk baris 6: 0.011157
+Memanggil API untuk RSR: https://contract.mexc.com/api/v1/contract/kline/RSR_USDT?interval=Day1&start=1749164400
+API respons untuk RSR: Highest High=0.007716, Lowest Low=0.006366
+Untuk RSR: MSS=0.017843, BOS=0.004471
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 6.
+Active tetap False untuk baris 6.
+
+Memproses Baris 7: Symbol=ACH, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 7 karena 'a' atau 'b' kosong.
+
+Memproses Baris 8: Symbol=SHIB, Binary=B, A=1.7634e-05, B=1.0291e-05, Active=False
+Nilai Fifty untuk baris 8: 1.39625e-05
+Memanggil API untuk SHIB: https://contract.mexc.com/api/v1/contract/kline/SHIB_USDT?interval=Day1&start=1749164400
+API respons untuk SHIB: Highest High=1.3529e-05, Lowest Low=1.1939e-05
+Untuk SHIB: MSS=1.0291e-05, BOS=1.7634e-05
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk SHIB.
+Pembaruan dijadwalkan untuk baris 8: Active dari False menjadi True.
+
+Memproses Baris 9: Symbol=DOGS, Binary=B, A=0.0002528, B=0.0001005, Active=False
+Nilai Fifty untuk baris 9: 0.00017665
+Memanggil API untuk DOGS: https://contract.mexc.com/api/v1/contract/kline/DOGS_USDT?interval=Day1&start=1749164400
+API respons untuk DOGS: Highest High=0.0001687, Lowest Low=0.00014
+Untuk DOGS: MSS=0.0001005, BOS=0.0002528
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk DOGS.
+Pembaruan dijadwalkan untuk baris 9: Active dari False menjadi True.
+
+Memproses Baris 10: Symbol=SPELL, Binary=S, A=0.0008443, B=0.0004383, Active=False
+Nilai Fifty untuk baris 10: 0.0006413
+Memanggil API untuk SPELL: https://contract.mexc.com/api/v1/contract/kline/SPELL_USDT?interval=Day1&start=1749164400
+API respons untuk SPELL: Highest High=0.0005565, Lowest Low=0.0004953
+Untuk SPELL: MSS=0.0008443, BOS=0.0004383
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 10.
+Active tetap False untuk baris 10.
+
+Memproses Baris 11: Symbol=JASMY, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 11 karena 'a' atau 'b' kosong.
+
+Memproses Baris 12: Symbol=ASTR, Binary=S, A=0.035033, B=0.020834, Active=False
+Nilai Fifty untuk baris 12: 0.0279335
+Memanggil API untuk ASTR: https://contract.mexc.com/api/v1/contract/kline/ASTR_USDT?interval=Day1&start=1749164400
+API respons untuk ASTR: Highest High=0.028698, Lowest Low=0.026073
+Untuk ASTR: MSS=0.035033, BOS=0.020834
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk ASTR.
+Pembaruan dijadwalkan untuk baris 12: Active dari False menjadi True.
+
+Memproses Baris 13: Symbol=SKL, Binary=S, A=0.02976, B=0.01634, Active=False
+Nilai Fifty untuk baris 13: 0.02305
+Memanggil API untuk SKL: https://contract.mexc.com/api/v1/contract/kline/SKL_USDT?interval=Day1&start=1749164400
+API respons untuk SKL: Highest High=0.0233, Lowest Low=0.02002
+Untuk SKL: MSS=0.02976, BOS=0.01634
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk SKL.
+Pembaruan dijadwalkan untuk baris 13: Active dari False menjadi True.
+
+Memproses Baris 14: Symbol=ARPA, Binary=S, A=0.03412, B=0.01826, Active=False
+Nilai Fifty untuk baris 14: 0.026189999999999998
+Memanggil API untuk ARPA: https://contract.mexc.com/api/v1/contract/kline/ARPA_USDT?interval=Day1&start=1749164400
+API respons untuk ARPA: Highest High=0.02278, Lowest Low=0.02022
+Untuk ARPA: MSS=0.03412, BOS=0.01826
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 14.
+Active tetap False untuk baris 14.
+
+Memproses Baris 15: Symbol=IOTX, Binary=B, A=0.0262, B=0.01938, Active=False
+Nilai Fifty untuk baris 15: 0.02279
+Memanggil API untuk IOTX: https://contract.mexc.com/api/v1/contract/kline/IOTX_USDT?interval=Day1&start=1749164400
+API respons untuk IOTX: Highest High=0.02308, Lowest Low=0.02017
+Untuk IOTX: MSS=0.01938, BOS=0.0262
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk IOTX.
+Pembaruan dijadwalkan untuk baris 15: Active dari False menjadi True.
+
+Memproses Baris 16: Symbol=VET, Binary=S, A=0.02541, B=0.02224, Active=False
+Nilai Fifty untuk baris 16: 0.023825
+Memanggil API untuk VET: https://contract.mexc.com/api/v1/contract/kline/VET_USDT?interval=Day1&start=1749164400
+API respons untuk VET: Highest High=0.02628, Lowest Low=0.02252
+Untuk VET: MSS=0.02541, BOS=0.02224
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk VET.
+Kondisi pemindahan (Binary='S', High > MSS) terpenuhi untuk VET. Trigger: mss
+Menjadwalkan baris 16 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 16 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 17: Symbol=CHZ, Binary=B, A=0.05101, B=0.03439, Active=False
+Nilai Fifty untuk baris 17: 0.0427
+Memanggil API untuk CHZ: https://contract.mexc.com/api/v1/contract/kline/CHZ_USDT?interval=Day1&start=1749164400
+API respons untuk CHZ: Highest High=0.04089, Lowest Low=0.03647
+Untuk CHZ: MSS=0.03439, BOS=0.05101
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk CHZ.
+Pembaruan dijadwalkan untuk baris 17: Active dari False menjadi True.
+
+Memproses Baris 18: Symbol=ANKR, Binary=S, A=0.02433, B=0.01359, Active=False
+Nilai Fifty untuk baris 18: 0.01896
+Memanggil API untuk ANKR: https://contract.mexc.com/api/v1/contract/kline/ANKR_USDT?interval=Day1&start=1749164400
+API respons untuk ANKR: Highest High=0.01721, Lowest Low=0.01568
+Untuk ANKR: MSS=0.02433, BOS=0.01359
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 18.
+Active tetap False untuk baris 18.
+
+Memproses Baris 19: Symbol=ONE, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 19 karena 'a' atau 'b' kosong.
+
+Memproses Baris 20: Symbol=ANIME, Binary=B, A=0.03676, B=0.02139, Active=False
+Nilai Fifty untuk baris 20: 0.029075
+Memanggil API untuk ANIME: https://contract.mexc.com/api/v1/contract/kline/ANIME_USDT?interval=Day1&start=1749164400
+API respons untuk ANIME: Highest High=0.04615, Lowest Low=0.02367
+Untuk ANIME: MSS=0.02139, BOS=0.03676
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ANIME.
+Kondisi pemindahan (Binary='B', High > BOS) terpenuhi untuk ANIME. Trigger: bos
+Menjadwalkan baris 20 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 20 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 21: Symbol=WOO, Binary=S, A=0.1034, B=0.07054, Active=False
+Nilai Fifty untuk baris 21: 0.08697
+Memanggil API untuk WOO: https://contract.mexc.com/api/v1/contract/kline/WOO_USDT?interval=Day1&start=1749164400
+API respons untuk WOO: Highest High=0.08816, Lowest Low=0.07158
+Untuk WOO: MSS=0.1034, BOS=0.07054
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk WOO.
+Pembaruan dijadwalkan untuk baris 21: Active dari False menjadi True.
+
+Memproses Baris 22: Symbol=C98, Binary=S, A=0.0799, B=0.0445, Active=False
+Nilai Fifty untuk baris 22: 0.0622
+Memanggil API untuk C98: https://contract.mexc.com/api/v1/contract/kline/C98_USDT?interval=Day1&start=1749164400
+API respons untuk C98: Highest High=0.05499, Lowest Low=0.04665
+Untuk C98: MSS=0.0799, BOS=0.0445
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 22.
+Active tetap False untuk baris 22.
+
+Memproses Baris 23: Symbol=PORTAL, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 23 karena 'a' atau 'b' kosong.
+
+Memproses Baris 24: Symbol=ATA, Binary=S, A=0.075, B=0.04056, Active=False
+Nilai Fifty untuk baris 24: 0.05778
+Memanggil API untuk ATA: https://contract.mexc.com/api/v1/contract/kline/ATA_USDT?interval=Day1&start=1749164400
+API respons untuk ATA: Highest High=0.05101, Lowest Low=0.042
+Untuk ATA: MSS=0.075, BOS=0.04056
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 24.
+Active tetap False untuk baris 24.
+
+Memproses Baris 25: Symbol=GRT, Binary=S, A=0.13104, B=0.06625, Active=False
+Nilai Fifty untuk baris 25: 0.098645
+Memanggil API untuk GRT: https://contract.mexc.com/api/v1/contract/kline/GRT_USDT?interval=Day1&start=1749164400
+API respons untuk GRT: Highest High=0.10256, Lowest Low=0.08664
+Untuk GRT: MSS=0.13104, BOS=0.06625
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk GRT.
+Pembaruan dijadwalkan untuk baris 25: Active dari False menjadi True.
+
+Memproses Baris 26: Symbol=MBOX, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 26 karena 'a' atau 'b' kosong.
+
+Memproses Baris 27: Symbol=COTI, Binary=S, A=0.0933, B=0.04926, Active=False
+Nilai Fifty untuk baris 27: 0.07128
+Memanggil API untuk COTI: https://contract.mexc.com/api/v1/contract/kline/COTI_USDT?interval=Day1&start=1749164400
+API respons untuk COTI: Highest High=0.06216, Lowest Low=0.05417
+Untuk COTI: MSS=0.0933, BOS=0.04926
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 27.
+Active tetap False untuk baris 27.
+
+Memproses Baris 28: Symbol=BIO, Binary=S, A=0.1054, B=0.0404, Active=False
+Nilai Fifty untuk baris 28: 0.07289999999999999
+Memanggil API untuk BIO: https://contract.mexc.com/api/v1/contract/kline/BIO_USDT?interval=Day1&start=1749164400
+API respons untuk BIO: Highest High=0.06982, Lowest Low=0.05883
+Untuk BIO: MSS=0.1054, BOS=0.0404
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 28.
+Active tetap False untuk baris 28.
+
+Memproses Baris 29: Symbol=CTSI, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 29 karena 'a' atau 'b' kosong.
+
+Memproses Baris 30: Symbol=HBAR, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 30 karena 'a' atau 'b' kosong.
+
+Memproses Baris 31: Symbol=BDXN, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 31 karena 'a' atau 'b' kosong.
+
+Memproses Baris 32: Symbol=MERL, Binary=B, A=0.1622, B=0.0624, Active=False
+Nilai Fifty untuk baris 32: 0.11230000000000001
+Memanggil API untuk MERL: https://contract.mexc.com/api/v1/contract/kline/MERL_USDT?interval=Day1&start=1749164400
+API respons untuk MERL: Highest High=0.10729, Lowest Low=0.09284
+Untuk MERL: MSS=0.0624, BOS=0.1622
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk MERL.
+Pembaruan dijadwalkan untuk baris 32: Active dari False menjadi True.
+
+Memproses Baris 33: Symbol=SAND, Binary=B, A=0.38946, B=0.21301, Active=False
+Nilai Fifty untuk baris 33: 0.301235
+Memanggil API untuk SAND: https://contract.mexc.com/api/v1/contract/kline/SAND_USDT?interval=Day1&start=1749250800
+API respons untuk SAND: Highest High=0.30342, Lowest Low=0.26824
+Untuk SAND: MSS=0.21301, BOS=0.38946
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk SAND.
+Pembaruan dijadwalkan untuk baris 33: Active dari False menjadi True.
+
+Memproses Baris 34: Symbol=NFP, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 34 karena 'a' atau 'b' kosong.
+
+Memproses Baris 35: Symbol=NKN, Binary=B, A=0.05784, B=0.01606, Active=False
+Nilai Fifty untuk baris 35: 0.036950000000000004
+Memanggil API untuk NKN: https://contract.mexc.com/api/v1/contract/kline/NKN_USDT?interval=Day1&start=1749250800
+API respons untuk NKN: Highest High=0.03068, Lowest Low=0.02716
+Untuk NKN: MSS=0.01606, BOS=0.05784
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk NKN.
+Pembaruan dijadwalkan untuk baris 35: Active dari False menjadi True.
+
+Memproses Baris 36: Symbol=OBOL, Binary=S, A=0.11252, B=0.16904, Active=False
+Nilai Fifty untuk baris 36: 0.14078
+Memanggil API untuk OBOL: https://contract.mexc.com/api/v1/contract/kline/OBOL_USDT?interval=Day1&start=1749250800
+API respons untuk OBOL: Highest High=0.15554, Lowest Low=0.14225
+Untuk OBOL: MSS=0.16904, BOS=0.11252
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk OBOL.
+Pembaruan dijadwalkan untuk baris 36: Active dari False menjadi True.
+
+Memproses Baris 37: Symbol=LRC, Binary=B, A=0.1266, B=0.0757, Active=False
+Nilai Fifty untuk baris 37: 0.10114999999999999
+Memanggil API untuk LRC: https://contract.mexc.com/api/v1/contract/kline/LRC_USDT?interval=Day1&start=1749250800
+API respons untuk LRC: Highest High=0.09252, Lowest Low=0.08037
+Untuk LRC: MSS=0.0757, BOS=0.1266
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk LRC.
+Pembaruan dijadwalkan untuk baris 37: Active dari False menjadi True.
+
+Memproses Baris 38: Symbol=FLM, Binary=S, A=0.02756, B=0.05359, Active=False
+Nilai Fifty untuk baris 38: 0.040575
+Memanggil API untuk FLM: https://contract.mexc.com/api/v1/contract/kline/FLM_USDT?interval=Day1&start=1749250800
+API respons untuk FLM: Highest High=0.04451, Lowest Low=0.03655
+Untuk FLM: MSS=0.05359, BOS=0.02756
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk FLM.
+Pembaruan dijadwalkan untuk baris 38: Active dari False menjadi True.
+
+Memproses Baris 39: Symbol=CVC, Binary=B, A=0.16048, B=0.09714, Active=False
+Nilai Fifty untuk baris 39: 0.12881
+Memanggil API untuk CVC: https://contract.mexc.com/api/v1/contract/kline/CVC_USDT?interval=Day1&start=1749250800
+API respons untuk CVC: Highest High=0.11706, Lowest Low=0.10173
+Untuk CVC: MSS=0.09714, BOS=0.16048
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk CVC.
+Pembaruan dijadwalkan untuk baris 39: Active dari False menjadi True.
+
+Memproses Baris 40: Symbol=KNC, Binary=B, A=0.427, B=0.2572, Active=False
+Nilai Fifty untuk baris 40: 0.34209999999999996
+Memanggil API untuk KNC: https://contract.mexc.com/api/v1/contract/kline/KNC_USDT?interval=Day1&start=1749250800
+API respons untuk KNC: Highest High=0.3718, Lowest Low=0.3286
+Untuk KNC: MSS=0.2572, BOS=0.427
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk KNC.
+Pembaruan dijadwalkan untuk baris 40: Active dari False menjadi True.
+
+Memproses Baris 41: Symbol=FLOW, Binary=B, A=0.4777, B=0.3018, Active=False
+Nilai Fifty untuk baris 41: 0.38975000000000004
+Memanggil API untuk FLOW: https://contract.mexc.com/api/v1/contract/kline/FLOW_USDT?interval=Day1&start=1749250800
+API respons untuk FLOW: Highest High=0.4, Lowest Low=0.3541
+Untuk FLOW: MSS=0.3018, BOS=0.4777
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk FLOW.
+Pembaruan dijadwalkan untuk baris 41: Active dari False menjadi True.
+
+Memproses Baris 42: Symbol=KAVA, Binary=S, A=0.5938, B=0.3394, Active=False
+Nilai Fifty untuk baris 42: 0.4666
+Memanggil API untuk KAVA: https://contract.mexc.com/api/v1/contract/kline/KAVA_USDT?interval=Day1&start=1749250800
+API respons untuk KAVA: Highest High=0.4772, Lowest Low=0.4286
+Untuk KAVA: MSS=0.5938, BOS=0.3394
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk KAVA.
+Pembaruan dijadwalkan untuk baris 42: Active dari False menjadi True.
+
+Memproses Baris 43: Symbol=MELANIA, Binary=S, A=0.4893, B=0.2805, Active=False
+Nilai Fifty untuk baris 43: 0.3849
+Memanggil API untuk MELANIA: https://contract.mexc.com/api/v1/contract/kline/MELANIA_USDT?interval=Day1&start=1749250800
+API respons untuk MELANIA: Highest High=0.3164, Lowest Low=0.2884
+Untuk MELANIA: MSS=0.4893, BOS=0.2805
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 43.
+Active tetap False untuk baris 43.
+
+Memproses Baris 44: Symbol=AGLD, Binary=S, A=0.6009, B=1.5789, Active=False
+Nilai Fifty untuk baris 44: 1.0899
+Memanggil API untuk AGLD: https://contract.mexc.com/api/v1/contract/kline/AGLD_USDT?interval=Day1&start=1749250800
+API respons untuk AGLD: Highest High=0.9088, Lowest Low=0.7744
+Untuk AGLD: MSS=1.5789, BOS=0.6009
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 44.
+Active tetap False untuk baris 44.
+
+Memproses Baris 45: Symbol=ACE, Binary=B, A=0.8598, B=0.5005, Active=False
+Nilai Fifty untuk baris 45: 0.68015
+Memanggil API untuk ACE: https://contract.mexc.com/api/v1/contract/kline/ACE_USDT?interval=Day1&start=1749250800
+API respons untuk ACE: Highest High=0.6275, Lowest Low=0.5343
+Untuk ACE: MSS=0.5005, BOS=0.8598
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ACE.
+Pembaruan dijadwalkan untuk baris 45: Active dari False menjadi True.
+
+Memproses Baris 46: Symbol=CRV, Binary=B, A=0.8593, B=0.603, Active=False
+Nilai Fifty untuk baris 46: 0.73115
+Memanggil API untuk CRV: https://contract.mexc.com/api/v1/contract/kline/CRV_USDT?interval=Day1&start=1749250800
+API respons untuk CRV: Highest High=0.7554, Lowest Low=0.6238
+Untuk CRV: MSS=0.603, BOS=0.8593
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk CRV.
+Pembaruan dijadwalkan untuk baris 46: Active dari False menjadi True.
+
+Memproses Baris 47: Symbol=GTC, Binary=S, A=0.386, B=0.205, Active=False
+Nilai Fifty untuk baris 47: 0.2955
+Memanggil API untuk GTC: https://contract.mexc.com/api/v1/contract/kline/GTC_USDT?interval=Day1&start=1749250800
+API respons untuk GTC: Highest High=0.2883, Lowest Low=0.2526
+Untuk GTC: MSS=0.386, BOS=0.205
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 47.
+Active tetap False untuk baris 47.
+
+Memproses Baris 48: Symbol=XTZ, Binary=B, A=0.702, B=0.485, Active=False
+Nilai Fifty untuk baris 48: 0.5934999999999999
+Memanggil API untuk XTZ: https://contract.mexc.com/api/v1/contract/kline/XTZ_USDT?interval=Day1&start=1749250800
+API respons untuk XTZ: Highest High=0.6275, Lowest Low=0.553
+Untuk XTZ: MSS=0.485, BOS=0.702
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk XTZ.
+Pembaruan dijadwalkan untuk baris 48: Active dari False menjadi True.
+
+Memproses Baris 49: Symbol=BAND, Binary=S, A=0.6997, B=0.6064, Active=False
+Nilai Fifty untuk baris 49: 0.65305
+Memanggil API untuk BAND: https://contract.mexc.com/api/v1/contract/kline/BAND_USDT?interval=Day1&start=1749250800
+API respons untuk BAND: Highest High=0.7338, Lowest Low=0.6209
+Untuk BAND: MSS=0.6997, BOS=0.6064
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk BAND.
+Kondisi pemindahan (Binary='S', High > MSS) terpenuhi untuk BAND. Trigger: mss
+Menjadwalkan baris 49 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 49 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 50: Symbol=SUSHI, Binary=B, A=0.8912, B=0.4511, Active=False
+Nilai Fifty untuk baris 50: 0.67115
+Memanggil API untuk SUSHI: https://contract.mexc.com/api/v1/contract/kline/SUSHI_USDT?interval=Day1&start=1749250800
+API respons untuk SUSHI: Highest High=0.7895, Lowest Low=0.6267
+Untuk SUSHI: MSS=0.4511, BOS=0.8912
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk SUSHI.
+Pembaruan dijadwalkan untuk baris 50: Active dari False menjadi True.
+
+Memproses Baris 51: Symbol=APT, Binary=S, A=7.0378, B=3.8906, Active=False
+Nilai Fifty untuk baris 51: 5.4642
+Memanggil API untuk APT: https://contract.mexc.com/api/v1/contract/kline/APT_USDT?interval=Day1&start=1749250800
+API respons untuk APT: Highest High=5.1539, Lowest Low=4.5866
+Untuk APT: MSS=7.0378, BOS=3.8906
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 51.
+Active tetap False untuk baris 51.
+
+Memproses Baris 52: Symbol=FILECOIN, Binary=S, A=3.46, B=2.111, Active=False
+Nilai Fifty untuk baris 52: 2.7855
+Memanggil API untuk FILECOIN: https://contract.mexc.com/api/v1/contract/kline/FILECOIN_USDT?interval=Day1&start=1749250800
+API respons untuk FILECOIN: Highest High=2.747, Lowest Low=2.396
+Untuk FILECOIN: MSS=3.46, BOS=2.111
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 52.
+Active tetap False untuk baris 52.
+
+Memproses Baris 53: Symbol=ICP, Binary=S, A=6.36, B=4.18, Active=False
+Nilai Fifty untuk baris 53: 5.27
+Memanggil API untuk ICP: https://contract.mexc.com/api/v1/contract/kline/ICP_USDT?interval=Day1&start=1749250800
+API respons untuk ICP: Highest High=6.316, Lowest Low=4.923
+Untuk ICP: MSS=6.36, BOS=4.18
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk ICP.
+Pembaruan dijadwalkan untuk baris 53: Active dari False menjadi True.
+
+Memproses Baris 54: Symbol=ILV, Binary=B, A=18.1, B=9.85, Active=False
+Nilai Fifty untuk baris 54: 13.975000000000001
+Memanggil API untuk ILV: https://contract.mexc.com/api/v1/contract/kline/ILV_USDT?interval=Day1&start=1749250800
+API respons untuk ILV: Highest High=13.58, Lowest Low=11.8
+Untuk ILV: MSS=9.85, BOS=18.1
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ILV.
+Pembaruan dijadwalkan untuk baris 54: Active dari False menjadi True.
+
+Memproses Baris 55: Symbol=BTC, Binary=S, A=111957.2, B=100308.9, Active=False
+Nilai Fifty untuk baris 55: 106133.04999999999
+Memanggil API untuk BTC: https://contract.mexc.com/api/v1/contract/kline/BTC_USDT?interval=Day1&start=1749250800
+API respons untuk BTC: Highest High=110647.8, Lowest Low=103816.6
+Untuk BTC: MSS=111957.2, BOS=100308.9
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk BTC.
+Pembaruan dijadwalkan untuk baris 55: Active dari False menjadi True.
+
+Memproses Baris 56: Symbol=SATS, Binary=B, A=7.98e-08, B=3.63e-08, Active=False
+Nilai Fifty untuk baris 56: 5.805e-08
+Memanggil API untuk SATS: https://contract.mexc.com/api/v1/contract/kline/SATS_USDT?interval=Day1&start=1749250800
+API respons untuk SATS: Highest High=4.842e-08, Lowest Low=4.306e-08
+Untuk SATS: MSS=3.63e-08, BOS=7.98e-08
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk SATS.
+Pembaruan dijadwalkan untuk baris 56: Active dari False menjadi True.
+
+Memproses Baris 57: Symbol=LEVER, Binary=S, A=0.0011011, B=0.000379, Active=False
+Nilai Fifty untuk baris 57: 0.00074005
+Memanggil API untuk LEVER: https://contract.mexc.com/api/v1/contract/kline/LEVER_USDT?interval=Day1&start=1749250800
+API respons untuk LEVER: Highest High=0.0004982, Lowest Low=0.0004316
+Untuk LEVER: MSS=0.0011011, BOS=0.000379
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 57.
+Active tetap False untuk baris 57.
+
+Memproses Baris 58: Symbol=MEMEFI, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 58 karena 'a' atau 'b' kosong.
+
+Memproses Baris 59: Symbol=HIPPO, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 59 karena 'a' atau 'b' kosong.
+
+Memproses Baris 60: Symbol=HMSTR, Binary=S, A=0.006259, B=0.001454, Active=False
+Nilai Fifty untuk baris 60: 0.0038564999999999997
+Memanggil API untuk HMSTR: https://contract.mexc.com/api/v1/contract/kline/HMSTR_USDT?interval=Day1&start=1749250800
+API respons untuk HMSTR: Highest High=0.002559, Lowest Low=0.001219
+Untuk HMSTR: MSS=0.006259, BOS=0.001454
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 60.
+Kondisi pemindahan (Binary='S', Low < BOS) terpenuhi untuk HMSTR. Trigger: bos
+Menjadwalkan baris 60 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 60 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 61: Symbol=B3, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 61 karena 'a' atau 'b' kosong.
+
+Memproses Baris 62: Symbol=IOST, Binary=S, A=0.005691, B=0.002838, Active=False
+Nilai Fifty untuk baris 62: 0.0042645
+Memanggil API untuk IOST: https://contract.mexc.com/api/v1/contract/kline/IOST_USDT?interval=Day1&start=1749250800
+API respons untuk IOST: Highest High=0.00452, Lowest Low=0.003417
+Untuk IOST: MSS=0.005691, BOS=0.002838
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk IOST.
+Pembaruan dijadwalkan untuk baris 62: Active dari False menjadi True.
+
+Memproses Baris 63: Symbol=DOOD, Binary=S, A=0.004666, B=0.002655, Active=False
+Nilai Fifty untuk baris 63: 0.0036604999999999997
+Memanggil API untuk DOOD: https://contract.mexc.com/api/v1/contract/kline/DOOD_USDT?interval=Day1&start=1749250800
+API respons untuk DOOD: Highest High=0.003289, Lowest Low=0.002864
+Untuk DOOD: MSS=0.004666, BOS=0.002655
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 63.
+Active tetap False untuk baris 63.
+
+Memproses Baris 64: Symbol=COS, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 64 karena 'a' atau 'b' kosong.
+
+Memproses Baris 65: Symbol=DEGEN, Binary=B, A=0.00894, B=0.001844, Active=False
+Nilai Fifty untuk baris 65: 0.005392
+Memanggil API untuk DEGEN: https://contract.mexc.com/api/v1/contract/kline/DEGEN_USDT?interval=Day1&start=1749250800
+API respons untuk DEGEN: Highest High=0.004991, Lowest Low=0.003984
+Untuk DEGEN: MSS=0.001844, BOS=0.00894
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk DEGEN.
+Pembaruan dijadwalkan untuk baris 65: Active dari False menjadi True.
+
+Memproses Baris 66: Symbol=MEME, Binary=B, A=0.003265, B=0.001376, Active=False
+Nilai Fifty untuk baris 66: 0.0023205
+Memanggil API untuk MEME: https://contract.mexc.com/api/v1/contract/kline/MEME_USDT?interval=Day1&start=1749250800
+API respons untuk MEME: Highest High=0.00202, Lowest Low=0.001736
+Untuk MEME: MSS=0.001376, BOS=0.003265
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk MEME.
+Pembaruan dijadwalkan untuk baris 66: Active dari False menjadi True.
+
+Memproses Baris 67: Symbol=XEC, Binary=S, A=2.59e-05, B=1.951e-05, Active=False
+Nilai Fifty untuk baris 67: 2.2705e-05
+Memanggil API untuk XEC: https://contract.mexc.com/api/v1/contract/kline/XEC_USDT?interval=Day1&start=1749250800
+API respons untuk XEC: Highest High=2.297e-05, Lowest Low=2.08e-05
+Untuk XEC: MSS=2.59e-05, BOS=1.951e-05
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk XEC.
+Pembaruan dijadwalkan untuk baris 67: Active dari False menjadi True.
+
+Memproses Baris 68: Symbol=LUNC, Binary=B, A=8.357e-05, B=4.634e-05, Active=False
+Nilai Fifty untuk baris 68: 6.4955e-05
+Memanggil API untuk LUNC: https://contract.mexc.com/api/v1/contract/kline/LUNC_USDT?interval=Day1&start=1749250800
+API respons untuk LUNC: Highest High=6.271e-05, Lowest Low=5.791e-05
+Untuk LUNC: MSS=4.634e-05, BOS=8.357e-05
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk LUNC.
+Pembaruan dijadwalkan untuk baris 68: Active dari False menjadi True.
+
+Memproses Baris 69: Symbol=X, Binary=B, A=0.00017327, B=3.78e-05, Active=False
+Nilai Fifty untuk baris 69: 0.000105535
+Memanggil API untuk X: https://contract.mexc.com/api/v1/contract/kline/X_USDT?interval=Day1&start=1749250800
+API respons untuk X: Highest High=7.742e-05, Lowest Low=7.131e-05
+Untuk X: MSS=3.78e-05, BOS=0.00017327
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk X.
+Pembaruan dijadwalkan untuk baris 69: Active dari False menjadi True.
+
+Memproses Baris 70: Symbol=EPT, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 70 karena 'a' atau 'b' kosong.
+
+Memproses Baris 71: Symbol=PENGU, Binary=S, A=0.01138, B=0.00886, Active=False
+Nilai Fifty untuk baris 71: 0.01012
+Memanggil API untuk PENGU: https://contract.mexc.com/api/v1/contract/kline/PENGU_USDT?interval=Day1&start=1749250800
+API respons untuk PENGU: Highest High=0.01253, Lowest Low=0.00935
+Untuk PENGU: MSS=0.01138, BOS=0.00886
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk PENGU.
+Kondisi pemindahan (Binary='S', High > MSS) terpenuhi untuk PENGU. Trigger: mss
+Menjadwalkan baris 71 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 71 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 72: Symbol=ZIL, Binary=B, A=0.01535, B=0.00919, Active=False
+Nilai Fifty untuk baris 72: 0.01227
+Memanggil API untuk ZIL: https://contract.mexc.com/api/v1/contract/kline/ZIL_USDT?interval=Day1&start=1749250800
+API respons untuk ZIL: Highest High=0.01251, Lowest Low=0.01112
+Untuk ZIL: MSS=0.00919, BOS=0.01535
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ZIL.
+Pembaruan dijadwalkan untuk baris 72: Active dari False menjadi True.
+
+Memproses Baris 73: Symbol=PEOPLE, Binary=B, A=0.03933, B=0.00973, Active=False
+Nilai Fifty untuk baris 73: 0.02453
+Memanggil API untuk PEOPLE: https://contract.mexc.com/api/v1/contract/kline/PEOPLE_USDT?interval=Day1&start=1749250800
+API respons untuk PEOPLE: Highest High=0.02427, Lowest Low=0.01884
+Untuk PEOPLE: MSS=0.00973, BOS=0.03933
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk PEOPLE.
+Pembaruan dijadwalkan untuk baris 73: Active dari False menjadi True.
+
+Memproses Baris 74: Symbol=BROCCOLIF3B, Binary=B, A=0.1171, B=0.00525, Active=False
+Nilai Fifty untuk baris 74: 0.061175
+Memanggil API untuk BROCCOLIF3B: https://contract.mexc.com/api/v1/contract/kline/BROCCOLIF3B_USDT?interval=Day1&start=1749250800
+API respons untuk BROCCOLIF3B: Highest High=0.01159, Lowest Low=0.00986
+Untuk BROCCOLIF3B: MSS=0.00525, BOS=0.1171
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk BROCCOLIF3B.
+Pembaruan dijadwalkan untuk baris 74: Active dari False menjadi True.
+
+Memproses Baris 75: Symbol=GALA, Binary=B, A=0.02363, B=0.01174, Active=False
+Nilai Fifty untuk baris 75: 0.017685
+Memanggil API untuk GALA: https://contract.mexc.com/api/v1/contract/kline/GALA_USDT?interval=Day1&start=1749250800
+API respons untuk GALA: Highest High=0.01795, Lowest Low=0.0155
+Untuk GALA: MSS=0.01174, BOS=0.02363
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk GALA.
+Pembaruan dijadwalkan untuk baris 75: Active dari False menjadi True.
+
+Memproses Baris 76: Symbol=PIPPIN, Binary=B, A=0.05533, B=0.01507, Active=False
+Nilai Fifty untuk baris 76: 0.035199999999999995
+Memanggil API untuk PIPPIN: https://contract.mexc.com/api/v1/contract/kline/PIPPIN_USDT?interval=Day1&start=1749250800
+API respons untuk PIPPIN: Highest High=0.02095, Lowest Low=0.01653
+Untuk PIPPIN: MSS=0.01507, BOS=0.05533
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk PIPPIN.
+Pembaruan dijadwalkan untuk baris 76: Active dari False menjadi True.
+
+Memproses Baris 77: Symbol=TRU, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 77 karena 'a' atau 'b' kosong.
+
+Memproses Baris 78: Symbol=KOMA, Binary=B, A=0.04264, B=0.01691, Active=False
+Nilai Fifty untuk baris 78: 0.029775
+Memanggil API untuk KOMA: https://contract.mexc.com/api/v1/contract/kline/KOMA_USDT?interval=Day1&start=1749250800
+API respons untuk KOMA: Highest High=0.0222, Lowest Low=0.0199
+Untuk KOMA: MSS=0.01691, BOS=0.04264
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk KOMA.
+Pembaruan dijadwalkan untuk baris 78: Active dari False menjadi True.
+
+Memproses Baris 79: Symbol=MYRO, Binary=S, A=0.0253, B=0.01884, Active=False
+Nilai Fifty untuk baris 79: 0.02207
+Memanggil API untuk MYRO: https://contract.mexc.com/api/v1/contract/kline/MYRO_USDT?interval=Day1&start=1749250800
+API respons untuk MYRO: Highest High=0.02508, Lowest Low=0.01962
+Untuk MYRO: MSS=0.0253, BOS=0.01884
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk MYRO.
+Pembaruan dijadwalkan untuk baris 79: Active dari False menjadi True.
+
+Memproses Baris 80: Symbol=REZ, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 80 karena 'a' atau 'b' kosong.
+
+Memproses Baris 81: Symbol=SWARMS, Binary=S, A=0.019, B=0.0822, Active=False
+Nilai Fifty untuk baris 81: 0.0506
+Memanggil API untuk SWARMS: https://contract.mexc.com/api/v1/contract/kline/SWARMS_USDT?interval=Day1&start=1749250800
+API respons untuk SWARMS: Highest High=0.026, Lowest Low=0.02129
+Untuk SWARMS: MSS=0.0822, BOS=0.019
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 81.
+Active tetap False untuk baris 81.
+
+Memproses Baris 82: Symbol=RDNT, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 82 karena 'a' atau 'b' kosong.
+
+Memproses Baris 83: Symbol=VANRY, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 83 karena 'a' atau 'b' kosong.
+
+Memproses Baris 84: Symbol=DUSK, Binary=S, A=0.06049, B=0.07337, Active=False
+Nilai Fifty untuk baris 84: 0.06693
+Memanggil API untuk DUSK: https://contract.mexc.com/api/v1/contract/kline/DUSK_USDT?interval=Day1&start=1749423600
+API respons untuk DUSK: Highest High=0.0688, Lowest Low=0.0597
+Untuk DUSK: MSS=0.07337, BOS=0.06049
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk DUSK.
+Kondisi pemindahan (Binary='S', Low < BOS) terpenuhi untuk DUSK. Trigger: bos
+Menjadwalkan baris 84 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 84 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 85: Symbol=DOLO, Binary=S, A=0.03941, B=0.02973, Active=False
+Nilai Fifty untuk baris 85: 0.034570000000000004
+Memanggil API untuk DOLO: https://contract.mexc.com/api/v1/contract/kline/DOLO_USDT?interval=Day1&start=1749423600
+API respons untuk DOLO: Highest High=0.03915, Lowest Low=0.03286
+Untuk DOLO: MSS=0.03941, BOS=0.02973
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk DOLO.
+Pembaruan dijadwalkan untuk baris 85: Active dari False menjadi True.
+
+Memproses Baris 86: Symbol=DODO, Binary=S, A=0.06431, B=0.03864, Active=False
+Nilai Fifty untuk baris 86: 0.05147500000000001
+Memanggil API untuk DODO: https://contract.mexc.com/api/v1/contract/kline/DODO_USDT?interval=Day1&start=1749423600
+API respons untuk DODO: Highest High=0.04634, Lowest Low=0.0421
+Untuk DODO: MSS=0.06431, BOS=0.03864
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 86.
+Active tetap False untuk baris 86.
+
+Memproses Baris 87: Symbol=D, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 87 karena 'a' atau 'b' kosong.
+
+Memproses Baris 88: Symbol=GUN, Binary=S, A=0.03301, B=0.04167, Active=False
+Nilai Fifty untuk baris 88: 0.03734
+Memanggil API untuk GUN: https://contract.mexc.com/api/v1/contract/kline/GUN_USDT?interval=Day1&start=1749423600
+API respons untuk GUN: Highest High=0.03631, Lowest Low=0.03253
+Untuk GUN: MSS=0.04167, BOS=0.03301
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 88.
+Kondisi pemindahan (Binary='S', Low < BOS) terpenuhi untuk GUN. Trigger: bos
+Menjadwalkan baris 88 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 88 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 89: Symbol=ROSE, Binary=B, A=0.01919, B=0.0442, Active=False
+Nilai Fifty untuk baris 89: 0.031695
+Memanggil API untuk ROSE: https://contract.mexc.com/api/v1/contract/kline/ROSE_USDT?interval=Day1&start=1749423600
+API respons untuk ROSE: Highest High=0.03137, Lowest Low=0.02662
+Untuk ROSE: MSS=0.01919, BOS=0.0442
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ROSE.
+Pembaruan dijadwalkan untuk baris 89: Active dari False menjadi True.
+
+Memproses Baris 90: Symbol=MLN, Binary=S, A=11.85, B=7.42, Active=False
+Nilai Fifty untuk baris 90: 9.635
+Memanggil API untuk MLN: https://contract.mexc.com/api/v1/contract/kline/MLN_USDT?interval=Day1&start=1749423600
+API respons untuk MLN: Highest High=8.295, Lowest Low=7.86
+Untuk MLN: MSS=11.85, BOS=7.42
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 90.
+Active tetap False untuk baris 90.
+
+Memproses Baris 91: Symbol=ZEN, Binary=B, A=8.244, B=12.344, Active=False
+Nilai Fifty untuk baris 91: 10.294
+Memanggil API untuk ZEN: https://contract.mexc.com/api/v1/contract/kline/ZEN_USDT?interval=Day1&start=1749423600
+API respons untuk ZEN: Highest High=10.981, Lowest Low=9.925
+Untuk ZEN: MSS=8.244, BOS=12.344
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ZEN.
+Pembaruan dijadwalkan untuk baris 91: Active dari False menjadi True.
+
+Memproses Baris 92: Symbol=RAY, Binary=S, A=1.969, B=2.574, Active=False
+Nilai Fifty untuk baris 92: 2.2715
+Memanggil API untuk RAY: https://contract.mexc.com/api/v1/contract/kline/RAY_USDT?interval=Day1&start=1749423600
+API respons untuk RAY: Highest High=2.54, Lowest Low=2.207
+Untuk RAY: MSS=2.574, BOS=1.969
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk RAY.
+Pembaruan dijadwalkan untuk baris 92: Active dari False menjadi True.
+
+Memproses Baris 93: Symbol=STRK, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 93 karena 'a' atau 'b' kosong.
+
+Memproses Baris 94: Symbol=RARE, Binary=B, A=0.04616, B=0.13531, Active=False
+Nilai Fifty untuk baris 94: 0.09073500000000001
+Memanggil API untuk RARE: https://contract.mexc.com/api/v1/contract/kline/RARE_USDT?interval=Day1&start=1749423600
+API respons untuk RARE: Highest High=0.06159, Lowest Low=0.05459
+Untuk RARE: MSS=0.04616, BOS=0.13531
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk RARE.
+Pembaruan dijadwalkan untuk baris 94: Active dari False menjadi True.
+
+Memproses Baris 95: Symbol=XMR, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 95 karena 'a' atau 'b' kosong.
+
+Memproses Baris 96: Symbol=SYS, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 96 karena 'a' atau 'b' kosong.
+
+Memproses Baris 97: Symbol=TNSR, Binary=S, A=0.1082, B=0.2226, Active=False
+Nilai Fifty untuk baris 97: 0.1654
+Memanggil API untuk TNSR: https://contract.mexc.com/api/v1/contract/kline/TNSR_USDT?interval=Day1&start=1749423600
+API respons untuk TNSR: Highest High=0.1376, Lowest Low=0.1211
+Untuk TNSR: MSS=0.2226, BOS=0.1082
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 97.
+Active tetap False untuk baris 97.
+
+Memproses Baris 98: Symbol=ARB, Binary=B, A=0.2419, B=0.5047, Active=False
+Nilai Fifty untuk baris 98: 0.3733
+Memanggil API untuk ARB: https://contract.mexc.com/api/v1/contract/kline/ARB_USDT?interval=Day1&start=1749423600
+API respons untuk ARB: Highest High=0.419, Lowest Low=0.3355
+Untuk ARB: MSS=0.2419, BOS=0.5047
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ARB.
+Pembaruan dijadwalkan untuk baris 98: Active dari False menjadi True.
+
+Memproses Baris 99: Symbol=SXT, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 99 karena 'a' atau 'b' kosong.
+
+Memproses Baris 100: Symbol=POL, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 100 karena 'a' atau 'b' kosong.
+
+Memproses Baris 101: Symbol=B, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 101 karena 'a' atau 'b' kosong.
+
+Memproses Baris 102: Symbol=OGN, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 102 karena 'a' atau 'b' kosong.
+
+Memproses Baris 103: Symbol=ACX, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 103 karena 'a' atau 'b' kosong.
+
+Memproses Baris 104: Symbol=PAXG, Binary=S, A=3141.8, B=3526, Active=False
+Nilai Fifty untuk baris 104: 3333.9
+Memanggil API untuk PAXG: https://contract.mexc.com/api/v1/contract/kline/PAXG_USDT?interval=Day1&start=1749423600
+API respons untuk PAXG: Highest High=3361.1, Lowest Low=3315.0
+Untuk PAXG: MSS=3526.0, BOS=3141.8
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk PAXG.
+Pembaruan dijadwalkan untuk baris 104: Active dari False menjadi True.
+
+Memproses Baris 105: Symbol=BICO, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 105 karena 'a' atau 'b' kosong.
+
+Memproses Baris 106: Symbol=HIVE, Binary=B, A=0.1774, B=0.2979, Active=False
+Nilai Fifty untuk baris 106: 0.23765
+Memanggil API untuk HIVE: https://contract.mexc.com/api/v1/contract/kline/HIVE_USDT?interval=Day1&start=1749423600
+API respons untuk HIVE: Highest High=0.2493, Lowest Low=0.2329
+Untuk HIVE: MSS=0.1774, BOS=0.2979
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk HIVE.
+Pembaruan dijadwalkan untuk baris 106: Active dari False menjadi True.
+
+Memproses Baris 107: Symbol=MTL, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 107 karena 'a' atau 'b' kosong.
+
+Memproses Baris 108: Symbol=QNT, Binary=B, A=89.36, B=119.8, Active=False
+Nilai Fifty untuk baris 108: 104.58
+Memanggil API untuk QNT: https://contract.mexc.com/api/v1/contract/kline/QNT_USDT?interval=Day1&start=1749423600
+API respons untuk QNT: Highest High=125.42, Lowest Low=116.38
+Untuk QNT: MSS=89.36, BOS=119.8
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 108.
+Kondisi pemindahan (Binary='B', High > BOS) terpenuhi untuk QNT. Trigger: bos
+Menjadwalkan baris 108 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 108 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 109: Symbol=BSV, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 109 karena 'a' atau 'b' kosong.
+
+Memproses Baris 110: Symbol=INIT, Binary=B, A=0.5441, B=1.4472, Active=False
+Nilai Fifty untuk baris 110: 0.99565
+Memanggil API untuk INIT: https://contract.mexc.com/api/v1/contract/kline/INIT_USDT?interval=Day1&start=1749423600
+API respons untuk INIT: Highest High=0.795, Lowest Low=0.6342
+Untuk INIT: MSS=0.5441, BOS=1.4472
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk INIT.
+Pembaruan dijadwalkan untuk baris 110: Active dari False menjadi True.
+
+Memproses Baris 111: Symbol=ADA, Binary=S, A=0.511, B=1.1742, Active=False
+Nilai Fifty untuk baris 111: 0.8426
+Memanggil API untuk ADA: https://contract.mexc.com/api/v1/contract/kline/ADA_USDT?interval=Day1&start=1749423600
+API respons untuk ADA: Highest High=0.7286, Lowest Low=0.656
+Untuk ADA: MSS=1.1742, BOS=0.511
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 111.
+Active tetap False untuk baris 111.
+
+Memproses Baris 112: Symbol=FXS, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 112 karena 'a' atau 'b' kosong.
+
+Memproses Baris 113: Symbol=CAKE, Binary=S, A=1.3814, B=3.4166, Active=False
+Nilai Fifty untuk baris 113: 2.399
+Memanggil API untuk CAKE: https://contract.mexc.com/api/v1/contract/kline/CAKE_USDT?interval=Day1&start=1749423600
+API respons untuk CAKE: Highest High=2.6484, Lowest Low=2.2667
+Untuk CAKE: MSS=3.4166, BOS=1.3814
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk CAKE.
+Pembaruan dijadwalkan untuk baris 113: Active dari False menjadi True.
+
+Memproses Baris 114: Symbol=CTK, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 114 karena 'a' atau 'b' kosong.
+
+Memproses Baris 115: Symbol=QTUM, Binary=S, A=1.917, B=2.276, Active=False
+Nilai Fifty untuk baris 115: 2.0965
+Memanggil API untuk QTUM: https://contract.mexc.com/api/v1/contract/kline/QTUM_USDT?interval=Day1&start=1749423600
+API respons untuk QTUM: Highest High=2.243, Lowest Low=2.037
+Untuk QTUM: MSS=2.276, BOS=1.917
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk QTUM.
+Pembaruan dijadwalkan untuk baris 115: Active dari False menjadi True.
+
+Memproses Baris 116: Symbol=LQTY, Binary=B, A=0.4299, B=1.225, Active=False
+Nilai Fifty untuk baris 116: 0.82745
+Memanggil API untuk LQTY: https://contract.mexc.com/api/v1/contract/kline/LQTY_USDT?interval=Day1&start=1749423600
+API respons untuk LQTY: Highest High=1.164, Lowest Low=0.8376
+Untuk LQTY: MSS=0.4299, BOS=1.225
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 116.
+Active tetap False untuk baris 116.
+
+Memproses Baris 117: Symbol=FHE, Binary=S, A=0.06387, B=0.1137, Active=False
+Nilai Fifty untuk baris 117: 0.088785
+Memanggil API untuk FHE: https://contract.mexc.com/api/v1/contract/kline/FHE_USDT?interval=Day1&start=1749423600
+API respons untuk FHE: Highest High=0.08246, Lowest Low=0.07239
+Untuk FHE: MSS=0.1137, BOS=0.06387
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 117.
+Active tetap False untuk baris 117.
+
+Memproses Baris 118: Symbol=PENDLE, Binary=B, A=3.718, B=4.7139, Active=False
+Nilai Fifty untuk baris 118: 4.215949999999999
+Memanggil API untuk PENDLE: https://contract.mexc.com/api/v1/contract/kline/PENDLE_USDT?interval=Day1&start=1749423600
+API respons untuk PENDLE: Highest High=4.5549, Lowest Low=3.9051
+Untuk PENDLE: MSS=3.718, BOS=4.7139
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk PENDLE.
+Pembaruan dijadwalkan untuk baris 118: Active dari False menjadi True.
+
+Memproses Baris 119: Symbol=AAVE, Binary=B, A=237.5, B=282.73, Active=False
+Nilai Fifty untuk baris 119: 260.115
+Memanggil API untuk AAVE: https://contract.mexc.com/api/v1/contract/kline/AAVE_USDT?interval=Day1&start=1749423600
+API respons untuk AAVE: Highest High=317.7, Lowest Low=250.19
+Untuk AAVE: MSS=237.5, BOS=282.73
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk AAVE.
+Kondisi pemindahan (Binary='B', High > BOS) terpenuhi untuk AAVE. Trigger: bos
+Menjadwalkan baris 119 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 119 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 120: Symbol=ETHFI, Binary=B, A=0.9695, B=1.6561, Active=False
+Nilai Fifty untuk baris 120: 1.3128
+Memanggil API untuk ETHFI: https://contract.mexc.com/api/v1/contract/kline/ETHFI_USDT?interval=Day1&start=1749423600
+API respons untuk ETHFI: Highest High=1.3945, Lowest Low=1.1221
+Untuk ETHFI: MSS=0.9695, BOS=1.6561
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ETHFI.
+Pembaruan dijadwalkan untuk baris 120: Active dari False menjadi True.
+
+Memproses Baris 121: Symbol=THETA, Binary=B, A=0.665, B=1.0833, Active=False
+Nilai Fifty untuk baris 121: 0.87415
+Memanggil API untuk THETA: https://contract.mexc.com/api/v1/contract/kline/THETA_USDT?interval=Day1&start=1749423600
+API respons untuk THETA: Highest High=0.8314, Lowest Low=0.7346
+Untuk THETA: MSS=0.665, BOS=1.0833
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk THETA.
+Pembaruan dijadwalkan untuk baris 121: Active dari False menjadi True.
+
+Memproses Baris 122: Symbol=OP, Binary=B, A=0.5727, B=0.953, Active=False
+Nilai Fifty untuk baris 122: 0.76285
+Memanggil API untuk OP: https://contract.mexc.com/api/v1/contract/kline/OP_USDT?interval=Day1&start=1749423600
+API respons untuk OP: Highest High=0.7323, Lowest Low=0.5931
+Untuk OP: MSS=0.5727, BOS=0.953
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk OP.
+Pembaruan dijadwalkan untuk baris 122: Active dari False menjadi True.
+
+Memproses Baris 123: Symbol=AI, Binary=S, A=0.1266, B=0.1544, Active=False
+Nilai Fifty untuk baris 123: 0.1405
+Memanggil API untuk AI: https://contract.mexc.com/api/v1/contract/kline/AI_USDT?interval=Day1&start=1749423600
+API respons untuk AI: Highest High=0.1542, Lowest Low=0.1382
+Untuk AI: MSS=0.1544, BOS=0.1266
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk AI.
+Pembaruan dijadwalkan untuk baris 123: Active dari False menjadi True.
+
+Memproses Baris 124: Symbol=ALCH, Binary=S, A=0.0849, B=0.2406, Active=False
+Nilai Fifty untuk baris 124: 0.16275
+Memanggil API untuk ALCH: https://contract.mexc.com/api/v1/contract/kline/ALCH_USDT?interval=Day1&start=1749423600
+API respons untuk ALCH: Highest High=0.13738, Lowest Low=0.13068
+Untuk ALCH: MSS=0.2406, BOS=0.0849
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 124.
+Active tetap False untuk baris 124.
+
+Memproses Baris 125: Symbol=YGG, Binary=B, A=0.135, B=0.255, Active=False
+Nilai Fifty untuk baris 125: 0.195
+Memanggil API untuk YGG: https://contract.mexc.com/api/v1/contract/kline/YGG_USDT?interval=Day1&start=1749423600
+API respons untuk YGG: Highest High=0.2016, Lowest Low=0.174
+Untuk YGG: MSS=0.135, BOS=0.255
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk YGG.
+Pembaruan dijadwalkan untuk baris 125: Active dari False menjadi True.
+
+Memproses Baris 126: Symbol=ATH, Binary=B, A=0.02411, B=0.05704, Active=False
+Nilai Fifty untuk baris 126: 0.040575
+Memanggil API untuk ATH: https://contract.mexc.com/api/v1/contract/kline/ATH_USDT?interval=Day1&start=1749423600
+API respons untuk ATH: Highest High=0.05101, Lowest Low=0.04727
+Untuk ATH: MSS=0.02411, BOS=0.05704
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 126.
+Active tetap False untuk baris 126.
+
+Memproses Baris 127: Symbol=BAN, Binary=S, A=0.0169, B=0.1929, Active=False
+Nilai Fifty untuk baris 127: 0.1049
+Memanggil API untuk BAN: https://contract.mexc.com/api/v1/contract/kline/BAN_USDT?interval=Day1&start=1749423600
+API respons untuk BAN: Highest High=0.06021, Lowest Low=0.05401
+Untuk BAN: MSS=0.1929, BOS=0.0169
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 127.
+Active tetap False untuk baris 127.
+
+Memproses Baris 128: Symbol=COOKIE, Binary=B, A=0.1416, B=0.3678, Active=False
+Nilai Fifty untuk baris 128: 0.25470000000000004
+Memanggil API untuk COOKIE: https://contract.mexc.com/api/v1/contract/kline/COOKIE_USDT?interval=Day1&start=1749423600
+API respons untuk COOKIE: Highest High=0.2655, Lowest Low=0.2138
+Untuk COOKIE: MSS=0.1416, BOS=0.3678
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk COOKIE.
+Pembaruan dijadwalkan untuk baris 128: Active dari False menjadi True.
+
+Memproses Baris 129: Symbol=BSW, Binary=B, A=0.01098, B=0.06107, Active=False
+Nilai Fifty untuk baris 129: 0.036025
+Memanggil API untuk BSW: https://contract.mexc.com/api/v1/contract/kline/BSW_USDT?interval=Day1&start=1749423600
+API respons untuk BSW: Highest High=0.0276, Lowest Low=0.02501
+Untuk BSW: MSS=0.01098, BOS=0.06107
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk BSW.
+Pembaruan dijadwalkan untuk baris 129: Active dari False menjadi True.
+
+Memproses Baris 130: Symbol=LAYER, Binary=S, A=0.7046, B=1.1219, Active=False
+Nilai Fifty untuk baris 130: 0.9132499999999999
+Memanggil API untuk LAYER: https://contract.mexc.com/api/v1/contract/kline/LAYER_USDT?interval=Day1&start=1749423600
+API respons untuk LAYER: Highest High=0.8078, Lowest Low=0.7293
+Untuk LAYER: MSS=1.1219, BOS=0.7046
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 130.
+Active tetap False untuk baris 130.
+
+Memproses Baris 131: Symbol=ME, Binary=S, A=0.711, B=1.309, Active=False
+Nilai Fifty untuk baris 131: 1.01
+Memanggil API untuk ME: https://contract.mexc.com/api/v1/contract/kline/ME_USDT?interval=Day1&start=1749423600
+API respons untuk ME: Highest High=0.928, Lowest Low=0.847
+Untuk ME: MSS=1.309, BOS=0.711
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 131.
+Active tetap False untuk baris 131.
+
+Memproses Baris 132: Symbol=A, Binary=S, A=0.55, B=0.8187, Active=False
+Nilai Fifty untuk baris 132: 0.68435
+Memanggil API untuk A: https://contract.mexc.com/api/v1/contract/kline/A_USDT?interval=Day1&start=1749423600
+API respons untuk A: Highest High=0.7031, Lowest Low=0.5602
+Untuk A: MSS=0.8187, BOS=0.55
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk A.
+Pembaruan dijadwalkan untuk baris 132: Active dari False menjadi True.
+
+Memproses Baris 133: Symbol=USDC, Binary=B, A=0.99766, B=1.00196, Active=False
+Nilai Fifty untuk baris 133: 0.99981
+Memanggil API untuk USDC: https://contract.mexc.com/api/v1/contract/kline/USDC_USDT?interval=Day1&start=1749423600
+API respons untuk USDC: Highest High=0.99926, Lowest Low=0.99868
+Untuk USDC: MSS=0.99766, BOS=1.00196
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk USDC.
+Pembaruan dijadwalkan untuk baris 133: Active dari False menjadi True.
+
+Memproses Baris 134: Symbol=LUMIA, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 134 karena 'a' atau 'b' kosong.
+
+Memproses Baris 135: Symbol=STORJ, Binary=B, A=0.244, B=0.2778, Active=False
+Nilai Fifty untuk baris 135: 0.2609
+Memanggil API untuk STORJ: https://contract.mexc.com/api/v1/contract/kline/STORJ_USDT?interval=Day1&start=1749423600
+API respons untuk STORJ: Highest High=0.2859, Lowest Low=0.2583
+Untuk STORJ: MSS=0.244, BOS=0.2778
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk STORJ.
+Kondisi pemindahan (Binary='B', High > BOS) terpenuhi untuk STORJ. Trigger: bos
+Menjadwalkan baris 135 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 135 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 136: Symbol=JTO, Binary=S, A=1.4074, B=2.5311, Active=False
+Nilai Fifty untuk baris 136: 1.96925
+Memanggil API untuk JTO: https://contract.mexc.com/api/v1/contract/kline/JTO_USDT?interval=Day1&start=1749423600
+API respons untuk JTO: Highest High=2.3077, Lowest Low=1.8161
+Untuk JTO: MSS=2.5311, BOS=1.4074
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk JTO.
+Pembaruan dijadwalkan untuk baris 136: Active dari False menjadi True.
+
+Memproses Baris 137: Symbol=ENJ, Binary=B, A=0.059, B=0.1165, Active=False
+Nilai Fifty untuk baris 137: 0.08775
+Memanggil API untuk ENJ: https://contract.mexc.com/api/v1/contract/kline/ENJ_USDT?interval=Day1&start=1749423600
+API respons untuk ENJ: Highest High=0.0818, Lowest Low=0.0725
+Untuk ENJ: MSS=0.059, BOS=0.1165
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ENJ.
+Pembaruan dijadwalkan untuk baris 137: Active dari False menjadi True.
+
+Memproses Baris 138: Symbol=DIA, Binary=B, A=0.2685, B=0.65, Active=False
+Nilai Fifty untuk baris 138: 0.45925000000000005
+Memanggil API untuk DIA: https://contract.mexc.com/api/v1/contract/kline/DIA_USDT?interval=Day1&start=1749423600
+API respons untuk DIA: Highest High=0.4499, Lowest Low=0.3859
+Untuk DIA: MSS=0.2685, BOS=0.65
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk DIA.
+Pembaruan dijadwalkan untuk baris 138: Active dari False menjadi True.
+
+Memproses Baris 139: Symbol=ALICE, Binary=B, A=0.371, B=0.59, Active=False
+Nilai Fifty untuk baris 139: 0.4805
+Memanggil API untuk ALICE: https://contract.mexc.com/api/v1/contract/kline/ALICE_USDT?interval=Day1&start=1749423600
+API respons untuk ALICE: Highest High=0.479, Lowest Low=0.406
+Untuk ALICE: MSS=0.371, BOS=0.59
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ALICE.
+Pembaruan dijadwalkan untuk baris 139: Active dari False menjadi True.
+
+Memproses Baris 140: Symbol=S, Binary=B, A=0.3132, B=0.9896, Active=False
+Nilai Fifty untuk baris 140: 0.6514
+Memanggil API untuk S: https://contract.mexc.com/api/v1/contract/kline/S_USDT?interval=Day1&start=1749423600
+API respons untuk S: Highest High=0.4078, Lowest Low=0.3683
+Untuk S: MSS=0.3132, BOS=0.9896
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk S.
+Pembaruan dijadwalkan untuk baris 140: Active dari False menjadi True.
+
+Memproses Baris 141: Symbol=SSV, Binary=B, A=4.264, B=11.928, Active=False
+Nilai Fifty untuk baris 141: 8.096
+Memanggil API untuk SSV: https://contract.mexc.com/api/v1/contract/kline/SSV_USDT?interval=Day1&start=1749423600
+API respons untuk SSV: Highest High=11.972, Lowest Low=8.992
+Untuk SSV: MSS=4.264, BOS=11.928
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 141.
+Kondisi pemindahan (Binary='B', High > BOS) terpenuhi untuk SSV. Trigger: bos
+Menjadwalkan baris 141 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 141 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 142: Symbol=ACT, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 142 karena 'a' atau 'b' kosong.
+
+Memproses Baris 143: Symbol=W, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 143 karena 'a' atau 'b' kosong.
+
+Memproses Baris 144: Symbol=TWT, Binary=S, A=0.6181, B=1.0921, Active=False
+Nilai Fifty untuk baris 144: 0.8551
+Memanggil API untuk TWT: https://contract.mexc.com/api/v1/contract/kline/TWT_USDT?interval=Day1&start=1749423600
+API respons untuk TWT: Highest High=0.842, Lowest Low=0.7788
+Untuk TWT: MSS=1.0921, BOS=0.6181
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 144.
+Active tetap False untuk baris 144.
+
+Memproses Baris 145: Symbol=SPX, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 145 karena 'a' atau 'b' kosong.
+
+Memproses Baris 146: Symbol=CHILLGUY, Binary=B, A=0.04157, B=0.11858, Active=False
+Nilai Fifty untuk baris 146: 0.08007500000000001
+Memanggil API untuk CHILLGUY: https://contract.mexc.com/api/v1/contract/kline/CHILLGUY_USDT?interval=Day1&start=1749423600
+API respons untuk CHILLGUY: Highest High=0.07027, Lowest Low=0.059
+Untuk CHILLGUY: MSS=0.04157, BOS=0.11858
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk CHILLGUY.
+Pembaruan dijadwalkan untuk baris 146: Active dari False menjadi True.
+
+Memproses Baris 147: Symbol=ALPINE, Binary=B, A=0.633, B=1.461, Active=False
+Nilai Fifty untuk baris 147: 1.0470000000000002
+Memanggil API untuk ALPINE: https://contract.mexc.com/api/v1/contract/kline/ALPINE_USDT?interval=Day1&start=1749423600
+API respons untuk ALPINE: Highest High=0.7772, Lowest Low=0.7179
+Untuk ALPINE: MSS=0.633, BOS=1.461
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ALPINE.
+Pembaruan dijadwalkan untuk baris 147: Active dari False menjadi True.
+
+Memproses Baris 148: Symbol=PHB, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 148 karena 'a' atau 'b' kosong.
+
+Memproses Baris 149: Symbol=MANTA, Binary=B, A=0.158, B=0.3485, Active=False
+Nilai Fifty untuk baris 149: 0.25325
+Memanggil API untuk MANTA: https://contract.mexc.com/api/v1/contract/kline/MANTA_USDT?interval=Day1&start=1749423600
+API respons untuk MANTA: Highest High=0.2574, Lowest Low=0.224
+Untuk MANTA: MSS=0.158, BOS=0.3485
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk MANTA.
+Pembaruan dijadwalkan untuk baris 149: Active dari False menjadi True.
+
+Memproses Baris 150: Symbol=ZKSYNC, Binary=B, A=0.04859, B=0.08134, Active=False
+Nilai Fifty untuk baris 150: 0.064965
+Memanggil API untuk ZKSYNC: https://contract.mexc.com/api/v1/contract/kline/ZKSYNC_USDT?interval=Day1&start=1749423600
+API respons untuk ZKSYNC: Highest High=0.05914, Lowest Low=0.05175
+Untuk ZKSYNC: MSS=0.04859, BOS=0.08134
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk ZKSYNC.
+Pembaruan dijadwalkan untuk baris 150: Active dari False menjadi True.
+
+Memproses Baris 151: Symbol=IOTA, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 151 karena 'a' atau 'b' kosong.
+
+Memproses Baris 152: Symbol=MOVE, Binary=S, A=0.1285, B=0.161, Active=False
+Nilai Fifty untuk baris 152: 0.14475
+Memanggil API untuk MOVE: https://contract.mexc.com/api/v1/contract/kline/MOVE_USDT?interval=Day1&start=1749423600
+API respons untuk MOVE: Highest High=0.1779, Lowest Low=0.1433
+Untuk MOVE: MSS=0.161, BOS=0.1285
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk MOVE.
+Kondisi pemindahan (Binary='S', High > MSS) terpenuhi untuk MOVE. Trigger: mss
+Menjadwalkan baris 152 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 152 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 153: Symbol=EIGEN, Binary=S, A=1.2035, B=1.8, Active=False
+Nilai Fifty untuk baris 153: 1.50175
+Memanggil API untuk EIGEN: https://contract.mexc.com/api/v1/contract/kline/EIGEN_USDT?interval=Day1&start=1749423600
+API respons untuk EIGEN: Highest High=1.7112, Lowest Low=1.3559
+Untuk EIGEN: MSS=1.8, BOS=1.2035
+Kondisi (b) terpenuhi: Mengubah active menjadi TRUE untuk EIGEN.
+Pembaruan dijadwalkan untuk baris 153: Active dari False menjadi True.
+
+Memproses Baris 154: Symbol=RPL, Binary=B, A=3.149, B=7.31, Active=False
+Nilai Fifty untuk baris 154: 5.2295
+Memanggil API untuk RPL: https://contract.mexc.com/api/v1/contract/kline/RPL_USDT?interval=Day1&start=1749423600
+API respons untuk RPL: Highest High=7.709, Lowest Low=5.17
+Untuk RPL: MSS=3.149, BOS=7.31
+Kondisi (a) terpenuhi: Mengubah active menjadi TRUE untuk RPL.
+Kondisi pemindahan (Binary='B', High > BOS) terpenuhi untuk RPL. Trigger: bos
+Menjadwalkan baris 154 untuk dipindahkan ke sheet 'historical'.
+Menjadwalkan pengosongan sel di baris 154 (kecuali Symbol) di sheet utama.
+
+Memproses Baris 155: Symbol=USUAL, Binary=TBD, A=, B=, Active=False
+Melewatkan baris 155 karena 'a' atau 'b' kosong.
+
+Memproses Baris 156: Symbol=NIL, Binary=S, A=0.3693, B=0.5693, Active=False
+Nilai Fifty untuk baris 156: 0.46930000000000005
+Memanggil API untuk NIL: https://contract.mexc.com/api/v1/contract/kline/NIL_USDT?interval=Day1&start=1749423600
+API respons untuk NIL: Highest High=0.4172, Lowest Low=0.3792
+Untuk NIL: MSS=0.5693, BOS=0.3693
+Tidak ada kondisi pembaruan active yang terpenuhi untuk baris 156.
+Active tetap False untuk baris 156.
+
+Memproses Baris 157: Symbol=TRUMPOFFICIAL, Binary=, A=, B=, Active=False
+Melewatkan baris 157 karena 'a' atau 'b' kosong.
+
+Memproses Baris 158: Symbol=SKATE, Binary=, A=, B=, Active=False
+Melewatkan baris 158 karena 'a' atau 'b' kosong.
+
+Memproses Baris 159: Symbol=LTC, Binary=, A=, B=, Active=False
+Melewatkan baris 159 karena 'a' atau 'b' kosong.
+
+Memproses Baris 160: Symbol=XRP, Binary=, A=, B=, Active=False
+Melewatkan baris 160 karena 'a' atau 'b' kosong.
+
+Memproses Baris 161: Symbol=DOGE, Binary=, A=, B=, Active=False
+Melewatkan baris 161 karena 'a' atau 'b' kosong.
+
+Memproses Baris 162: Symbol=DASH, Binary=, A=, B=, Active=False
+Melewatkan baris 162 karena 'a' atau 'b' kosong.
+
+Memproses Baris 163: Symbol=XLM, Binary=, A=, B=, Active=False
+Melewatkan baris 163 karena 'a' atau 'b' kosong.
+
+Memproses Baris 164: Symbol=XVG, Binary=, A=, B=, Active=False
+Melewatkan baris 164 karena 'a' atau 'b' kosong.
+
+Memproses Baris 165: Symbol=ETH, Binary=, A=, B=, Active=False
+Melewatkan baris 165 karena 'a' atau 'b' kosong.
+
+Memproses Baris 166: Symbol=LSK, Binary=, A=, B=, Active=False
+Melewatkan baris 166 karena 'a' atau 'b' kosong.
+
+Memproses Baris 167: Symbol=STEEM, Binary=, A=, B=, Active=False
+Melewatkan baris 167 karena 'a' atau 'b' kosong.
+
+Memproses Baris 168: Symbol=ETC, Binary=, A=, B=, Active=False
+Melewatkan baris 168 karena 'a' atau 'b' kosong.
+
+Memproses Baris 169: Symbol=NEO, Binary=, A=, B=, Active=False
+Melewatkan baris 169 karena 'a' atau 'b' kosong.
+
+Memproses Baris 170: Symbol=ZEC, Binary=, A=, B=, Active=False
+Melewatkan baris 170 karena 'a' atau 'b' kosong.
+
+Memproses Baris 171: Symbol=GLM, Binary=, A=, B=, Active=False
+Melewatkan baris 171 karena 'a' atau 'b' kosong.
+
+Memproses Baris 172: Symbol=MKR, Binary=, A=, B=, Active=False
+Melewatkan baris 172 karena 'a' atau 'b' kosong.
+
+Memproses Baris 173: Symbol=ARK, Binary=, A=, B=, Active=False
+Melewatkan baris 173 karena 'a' atau 'b' kosong.
+
+Memproses Baris 174: Symbol=RLC, Binary=, A=, B=, Active=False
+Melewatkan baris 174 karena 'a' atau 'b' kosong.
+
+Memproses Baris 175: Symbol=BAT, Binary=, A=, B=, Active=False
+Melewatkan baris 175 karena 'a' atau 'b' kosong.
+
+Memproses Baris 176: Symbol=NMR, Binary=, A=, B=, Active=False
+Melewatkan baris 176 karena 'a' atau 'b' kosong.
+
+Memproses Baris 177: Symbol=BNT, Binary=, A=, B=, Active=False
+Melewatkan baris 177 karena 'a' atau 'b' kosong.
+
+Memproses Baris 178: Symbol=FUN, Binary=, A=, B=, Active=False
+Melewatkan baris 178 karena 'a' atau 'b' kosong.
+
+Memproses Baris 179: Symbol=GAS, Binary=, A=, B=, Active=False
+Melewatkan baris 179 karena 'a' atau 'b' kosong.
+
+Memproses Baris 180: Symbol=BNB, Binary=, A=, B=, Active=False
+Melewatkan baris 180 karena 'a' atau 'b' kosong.
+
+Memproses Baris 181: Symbol=BCH, Binary=, A=, B=, Active=False
+Melewatkan baris 181 karena 'a' atau 'b' kosong.
+
+Memproses Baris 182: Symbol=ZRX, Binary=, A=, B=, Active=False
+Melewatkan baris 182 karena 'a' atau 'b' kosong.
+
+Memproses Baris 183: Symbol=TRX, Binary=, A=, B=, Active=False
+Melewatkan baris 183 karena 'a' atau 'b' kosong.
+
+Memproses Baris 184: Symbol=MANA, Binary=, A=, B=, Active=False
+Melewatkan baris 184 karena 'a' atau 'b' kosong.
+
+Memproses Baris 185: Symbol=LINK, Binary=, A=, B=, Active=False
+Melewatkan baris 185 karena 'a' atau 'b' kosong.
+
+Memproses Baris 186: Symbol=ICX, Binary=, A=, B=, Active=False
+Melewatkan baris 186 karena 'a' atau 'b' kosong.
+
+Memproses Baris 187: Symbol=POWR, Binary=, A=, B=, Active=False
+Melewatkan baris 187 karena 'a' atau 'b' kosong.
+
+Memproses Baris 188: Symbol=WAXP, Binary=, A=, B=, Active=False
+Melewatkan baris 188 karena 'a' atau 'b' kosong.
+
+Memproses Baris 189: Symbol=ONT, Binary=, A=, B=, Active=False
+Melewatkan baris 189 karena 'a' atau 'b' kosong.
+
+Memproses Baris 190: Symbol=VIC, Binary=, A=, B=, Active=False
+Melewatkan baris 190 karena 'a' atau 'b' kosong.
+
+Memproses Baris 191: Symbol=RVN, Binary=, A=, B=, Active=False
+Melewatkan baris 191 karena 'a' atau 'b' kosong.
+
+Memproses Baris 192: Symbol=SNX, Binary=, A=, B=, Active=False
+Melewatkan baris 192 karena 'a' atau 'b' kosong.
+
+Memproses Baris 193: Symbol=AVA, Binary=, A=, B=, Active=False
+Melewatkan baris 193 karena 'a' atau 'b' kosong.
+
+Memproses Baris 194: Symbol=VTHO, Binary=, A=, B=, Active=False
+Melewatkan baris 194 karena 'a' atau 'b' kosong.
+
+Memproses Baris 195: Symbol=FLUX, Binary=, A=, B=, Active=False
+Melewatkan baris 195 karena 'a' atau 'b' kosong.
+
+Memproses Baris 196: Symbol=ONG, Binary=, A=, B=, Active=False
+Melewatkan baris 196 karena 'a' atau 'b' kosong.
+
+Memproses Baris 197: Symbol=AERGO, Binary=, A=, B=, Active=False
+Melewatkan baris 197 karena 'a' atau 'b' kosong.
+
+Memproses Baris 198: Symbol=LPT, Binary=, A=, B=, Active=False
+Melewatkan baris 198 karena 'a' atau 'b' kosong.
+
+Memproses Baris 199: Symbol=FET, Binary=, A=, B=, Active=False
+Melewatkan baris 199 karena 'a' atau 'b' kosong.
+
+Memproses Baris 200: Symbol=ATOM, Binary=, A=, B=, Active=False
+Melewatkan baris 200 karena 'a' atau 'b' kosong.
+
+Memproses Baris 201: Symbol=CHR, Binary=, A=, B=, Active=False
+Melewatkan baris 201 karena 'a' atau 'b' kosong.
+
+Memproses Baris 202: Symbol=AWE, Binary=, A=, B=, Active=False
+Melewatkan baris 202 karena 'a' atau 'b' kosong.
+
+Memproses Baris 203: Symbol=ALGO, Binary=, A=, B=, Active=False
+Melewatkan baris 203 karena 'a' atau 'b' kosong.
+
+Memproses Baris 204: Symbol=PROM, Binary=, A=, B=, Active=False
+Melewatkan baris 204 karena 'a' atau 'b' kosong.
+
+Memproses Baris 205: Symbol=RUNE, Binary=, A=, B=, Active=False
+Melewatkan baris 205 karena 'a' atau 'b' kosong.
+
+Memproses Baris 206: Symbol=SXP, Binary=, A=, B=, Active=False
+Melewatkan baris 206 karena 'a' atau 'b' kosong.
+
+Memproses Baris 207: Symbol=DF, Binary=, A=, B=, Active=False
+Melewatkan baris 207 karena 'a' atau 'b' kosong.
+
+Memproses Baris 208: Symbol=STX, Binary=, A=, B=, Active=False
+Melewatkan baris 208 karena 'a' atau 'b' kosong.
+
+Memproses Baris 209: Symbol=TRB, Binary=, A=, B=, Active=False
+Melewatkan baris 209 karena 'a' atau 'b' kosong.
+
+Memproses Baris 210: Symbol=CKB, Binary=, A=, B=, Active=False
+Melewatkan baris 210 karena 'a' atau 'b' kosong.
+
+Memproses Baris 211: Symbol=OXT, Binary=, A=, B=, Active=False
+Melewatkan baris 211 karena 'a' atau 'b' kosong.
+
+Memproses Baris 212: Symbol=KSM, Binary=, A=, B=, Active=False
+Melewatkan baris 212 karena 'a' atau 'b' kosong.
+
+Memproses Baris 213: Symbol=ASR, Binary=, A=, B=, Active=False
+Melewatkan baris 213 karena 'a' atau 'b' kosong.
+
+Memproses Baris 214: Symbol=OG, Binary=, A=, B=, Active=False
+Melewatkan baris 214 karena 'a' atau 'b' kosong.
+
+Memproses Baris 215: Symbol=SOL, Binary=, A=, B=, Active=False
+Melewatkan baris 215 karena 'a' atau 'b' kosong.
+
+Memproses Baris 216: Symbol=JST, Binary=, A=, B=, Active=False
+Melewatkan baris 216 karena 'a' atau 'b' kosong.
+
+Memproses Baris 217: Symbol=CELO, Binary=, A=, B=, Active=False
+Melewatkan baris 217 karena 'a' atau 'b' kosong.
+
+Memproses Baris 218: Symbol=SCRT, Binary=, A=, B=, Active=False
+Melewatkan baris 218 karena 'a' atau 'b' kosong.
+
+Memproses Baris 219: Symbol=UMA, Binary=, A=, B=, Active=False
+Melewatkan baris 219 karena 'a' atau 'b' kosong.
+
+Memproses Baris 220: Symbol=AR, Binary=, A=, B=, Active=False
+Melewatkan baris 220 karena 'a' atau 'b' kosong.
+
+Memproses Baris 221: Symbol=KDA, Binary=, A=, B=, Active=False
+Melewatkan baris 221 karena 'a' atau 'b' kosong.
+
+Memproses Baris 222: Symbol=RENDER, Binary=, A=, B=, Active=False
+Melewatkan baris 222 karena 'a' atau 'b' kosong.
+
+Memproses Baris 223: Symbol=COMP, Binary=, A=, B=, Active=False
+Melewatkan baris 223 karena 'a' atau 'b' kosong.
+
+Memproses Baris 224: Symbol=AVAX, Binary=, A=, B=, Active=False
+Melewatkan baris 224 karena 'a' atau 'b' kosong.
+
+Memproses Baris 225: Symbol=YFI, Binary=, A=, B=, Active=False
+Melewatkan baris 225 karena 'a' atau 'b' kosong.
+
+Memproses Baris 226: Symbol=FIO, Binary=, A=, B=, Active=False
+Melewatkan baris 226 karena 'a' atau 'b' kosong.
+
+Memproses Baris 227: Symbol=FIS, Binary=, A=, B=, Active=False
+Melewatkan baris 227 karena 'a' atau 'b' kosong.
+
+Memproses Baris 228: Symbol=NEAR, Binary=, A=, B=, Active=False
+Melewatkan baris 228 karena 'a' atau 'b' kosong.
+
+Memproses Baris 229: Symbol=OM, Binary=, A=, B=, Active=False
+Melewatkan baris 229 karena 'a' atau 'b' kosong.
+
+Memproses Baris 230: Symbol=DOT, Binary=, A=, B=, Active=False
+Melewatkan baris 230 karena 'a' atau 'b' kosong.
+
+Memproses Baris 231: Symbol=AXS, Binary=, A=, B=, Active=False
+Melewatkan baris 231 karena 'a' atau 'b' kosong.
+
+Memproses Baris 232: Symbol=PHA, Binary=, A=, B=, Active=False
+Melewatkan baris 232 karena 'a' atau 'b' kosong.
+
+Memproses Baris 233: Symbol=EGLD, Binary=, A=, B=, Active=False
+Melewatkan baris 233 karena 'a' atau 'b' kosong.
+
+Memproses Baris 234: Symbol=BEL, Binary=, A=, B=, Active=False
+Melewatkan baris 234 karena 'a' atau 'b' kosong.
+
+Memproses Baris 235: Symbol=PERP, Binary=, A=, B=, Active=False
+Melewatkan baris 235 karena 'a' atau 'b' kosong.
+
+Memproses Baris 236: Symbol=GHST, Binary=, A=, B=, Active=False
+Melewatkan baris 236 karena 'a' atau 'b' kosong.
+
+Memproses Baris 237: Symbol=BAKE, Binary=, A=, B=, Active=False
+Melewatkan baris 237 karena 'a' atau 'b' kosong.
+
+Memproses Baris 238: Symbol=UNI, Binary=, A=, B=, Active=False
+Melewatkan baris 238 karena 'a' atau 'b' kosong.
+
+Memproses Baris 239: Symbol=DEGO, Binary=, A=, B=, Active=False
+Melewatkan baris 239 karena 'a' atau 'b' kosong.
+
+Memproses Baris 240: Symbol=USTC, Binary=, A=, B=, Active=False
+Melewatkan baris 240 karena 'a' atau 'b' kosong.
+
+Memproses Baris 241: Symbol=INJ, Binary=, A=, B=, Active=False
+Melewatkan baris 241 karena 'a' atau 'b' kosong.
+
+Memproses Baris 242: Symbol=XVS, Binary=, A=, B=, Active=False
+Melewatkan baris 242 karena 'a' atau 'b' kosong.
+
+Memproses Baris 243: Symbol=CFX, Binary=, A=, B=, Active=False
+Melewatkan baris 243 karena 'a' atau 'b' kosong.
+
+Memproses Baris 244: Symbol=AKT, Binary=, A=, B=, Active=False
+Melewatkan baris 244 karena 'a' atau 'b' kosong.
+
+Memproses Baris 245: Symbol=API3, Binary=, A=, B=, Active=False
+Melewatkan baris 245 karena 'a' atau 'b' kosong.
+
+Memproses Baris 246: Symbol=FIDA, Binary=, A=, B=, Active=False
+Melewatkan baris 246 karena 'a' atau 'b' kosong.
+
+Memproses Baris 247: Symbol=LDO, Binary=, A=, B=, Active=False
+Melewatkan baris 247 karena 'a' atau 'b' kosong.
+
+Memproses Baris 248: Symbol=1INCH, Binary=, A=, B=, Active=False
+Melewatkan baris 248 karena 'a' atau 'b' kosong.
+
+Memproses Baris 249: Symbol=SFP, Binary=, A=, B=, Active=False
+Melewatkan baris 249 karena 'a' atau 'b' kosong.
+
+Memproses Baris 250: Symbol=SUPER, Binary=, A=, B=, Active=False
+Melewatkan baris 250 karena 'a' atau 'b' kosong.
+
+Memproses Baris 251: Symbol=MASK, Binary=, A=, B=, Active=False
+Melewatkan baris 251 karena 'a' atau 'b' kosong.
+
+Memproses Baris 252: Symbol=AUCTION, Binary=, A=, B=, Active=False
+Melewatkan baris 252 karena 'a' atau 'b' kosong.
+
+Memproses Baris 253: Symbol=EPIC, Binary=, A=, B=, Active=False
+Melewatkan baris 253 karena 'a' atau 'b' kosong.
+
+Memproses Baris 254: Symbol=MINA, Binary=, A=, B=, Active=False
+Melewatkan baris 254 karena 'a' atau 'b' kosong.
+
+Memproses Baris 255: Symbol=PUNDIX, Binary=, A=, B=, Active=False
+Melewatkan baris 255 karena 'a' atau 'b' kosong.
+
+Memproses Baris 256: Symbol=MOVR, Binary=, A=, B=, Active=False
+Melewatkan baris 256 karena 'a' atau 'b' kosong.
+
+Memproses Baris 257: Symbol=FORTH, Binary=, A=, B=, Active=False
+Melewatkan baris 257 karena 'a' atau 'b' kosong.
+
+Memproses Baris 258: Symbol=METIS, Binary=, A=, B=, Active=False
+Melewatkan baris 258 karena 'a' atau 'b' kosong.
+
+Memproses Baris 259: Symbol=1000000BABYDOGE, Binary=, A=, B=, Active=False
+Melewatkan baris 259 karena 'a' atau 'b' kosong.
+
+Memproses Baris 260: Symbol=SUN, Binary=, A=, B=, Active=False
+Melewatkan baris 260 karena 'a' atau 'b' kosong.
+
+Memproses Baris 261: Symbol=IMX, Binary=, A=, B=, Active=False
+Melewatkan baris 261 karena 'a' atau 'b' kosong.
+
+Memproses Baris 262: Symbol=FLOKI, Binary=, A=, B=, Active=False
+Melewatkan baris 262 karena 'a' atau 'b' kosong.
+
+Memproses Baris 263: Symbol=CHESS, Binary=, A=, B=, Active=False
+Melewatkan baris 263 karena 'a' atau 'b' kosong.
+
+Memproses Baris 264: Symbol=DYDX, Binary=, A=, B=, Active=False
+Melewatkan baris 264 karena 'a' atau 'b' kosong.
+
+Memproses Baris 265: Symbol=ORCA, Binary=, A=, B=, Active=False
+Melewatkan baris 265 karena 'a' atau 'b' kosong.
+
+Memproses Baris 266: Symbol=HIGH, Binary=, A=, B=, Active=False
+Melewatkan baris 266 karena 'a' atau 'b' kosong.
+
+Memproses Baris 267: Symbol=JOE, Binary=, A=, B=, Active=False
+Melewatkan baris 267 karena 'a' atau 'b' kosong.
+
+Memproses Baris 268: Symbol=TONCOIN, Binary=, A=, B=, Active=False
+Melewatkan baris 268 karena 'a' atau 'b' kosong.
+
+Memproses Baris 269: Symbol=GMX, Binary=, A=, B=, Active=False
+Melewatkan baris 269 karena 'a' atau 'b' kosong.
+
+Memproses Baris 270: Symbol=SYN, Binary=, A=, B=, Active=False
+Melewatkan baris 270 karena 'a' atau 'b' kosong.
+
+Memproses Baris 271: Symbol=SOLV, Binary=, A=, B=, Active=False
+Melewatkan baris 271 karena 'a' atau 'b' kosong.
+
+Memproses Baris 272: Symbol=WLD, Binary=, A=, B=, Active=False
+Melewatkan baris 272 karena 'a' atau 'b' kosong.
+
+Memproses Baris 273: Symbol=ENS, Binary=, A=, B=, Active=False
+Melewatkan baris 273 karena 'a' atau 'b' kosong.
+
+Memproses Baris 274: Symbol=RON, Binary=, A=, B=, Active=False
+Melewatkan baris 274 karena 'a' atau 'b' kosong.
+
+Memproses Baris 275: Symbol=MAGIC, Binary=, A=, B=, Active=False
+Melewatkan baris 275 karena 'a' atau 'b' kosong.
+
+Memproses Baris 276: Symbol=SANTOS, Binary=, A=, B=, Active=False
+Melewatkan baris 276 karena 'a' atau 'b' kosong.
+
+Memproses Baris 277: Symbol=VOXEL, Binary=, A=, B=, Active=False
+Melewatkan baris 277 karena 'a' atau 'b' kosong.
+
+Memproses Baris 278: Symbol=LOKA, Binary=, A=, B=, Active=False
+Melewatkan baris 278 karena 'a' atau 'b' kosong.
+
+Memproses Baris 279: Symbol=T, Binary=, A=, B=, Active=False
+Melewatkan baris 279 karena 'a' atau 'b' kosong.
+
+Memproses Baris 280: Symbol=AXL, Binary=, A=, B=, Active=False
+Melewatkan baris 280 karena 'a' atau 'b' kosong.
+
+Memproses Baris 281: Symbol=MAV, Binary=, A=, B=, Active=False
+Melewatkan baris 281 karena 'a' atau 'b' kosong.
+
+Memproses Baris 282: Symbol=GMT, Binary=, A=, B=, Active=False
+Melewatkan baris 282 karena 'a' atau 'b' kosong.
+
+Memproses Baris 283: Symbol=XCN, Binary=, A=, B=, Active=False
+Melewatkan baris 283 karena 'a' atau 'b' kosong.
+
+Memproses Baris 284: Symbol=APE, Binary=, A=, B=, Active=False
+Melewatkan baris 284 karena 'a' atau 'b' kosong.
+
+Memproses Baris 285: Symbol=STG, Binary=, A=, B=, Active=False
+Melewatkan baris 285 karena 'a' atau 'b' kosong.
+
+Memproses Baris 286: Symbol=COW, Binary=, A=, B=, Active=False
+Melewatkan baris 286 karena 'a' atau 'b' kosong.
+
+Memproses Baris 287: Symbol=REI, Binary=, A=, B=, Active=False
+Melewatkan baris 287 karena 'a' atau 'b' kosong.
+
+Memproses Baris 288: Symbol=QUICK, Binary=, A=, B=, Active=False
+Melewatkan baris 288 karena 'a' atau 'b' kosong.
+
+Memproses Baris 289: Symbol=LUNANEW, Binary=, A=, B=, Active=False
+Melewatkan baris 289 karena 'a' atau 'b' kosong.
+
+Memproses Baris 290: Symbol=POLYX, Binary=, A=, B=, Active=False
+Melewatkan baris 290 karena 'a' atau 'b' kosong.
+
+Memproses Baris 291: Symbol=KAS, Binary=, A=, B=, Active=False
+Melewatkan baris 291 karena 'a' atau 'b' kosong.
+
+Memproses Baris 292: Symbol=VELODROME, Binary=, A=, B=, Active=False
+Melewatkan baris 292 karena 'a' atau 'b' kosong.
+
+Memproses Baris 293: Symbol=MILK, Binary=, A=, B=, Active=False
+Melewatkan baris 293 karena 'a' atau 'b' kosong.
+
+Memproses Baris 294: Symbol=SUI, Binary=, A=, B=, Active=False
+Melewatkan baris 294 karena 'a' atau 'b' kosong.
+
+Memproses Baris 295: Symbol=ONDO, Binary=, A=, B=, Active=False
+Melewatkan baris 295 karena 'a' atau 'b' kosong.
+
+Memproses Baris 296: Symbol=ZETA, Binary=, A=, B=, Active=False
+Melewatkan baris 296 karena 'a' atau 'b' kosong.
+
+Memproses Baris 297: Symbol=ETHW, Binary=, A=, B=, Active=False
+Melewatkan baris 297 karena 'a' atau 'b' kosong.
+
+Memproses Baris 298: Symbol=LISTA, Binary=, A=, B=, Active=False
+Melewatkan baris 298 karena 'a' atau 'b' kosong.
+
+Memproses Baris 299: Symbol=SAFE, Binary=, A=, B=, Active=False
+Melewatkan baris 299 karena 'a' atau 'b' kosong.
+
+Memproses Baris 300: Symbol=RED, Binary=, A=, B=, Active=False
+Melewatkan baris 300 karena 'a' atau 'b' kosong.
+
+Memproses Baris 301: Symbol=ID, Binary=, A=, B=, Active=False
+Melewatkan baris 301 karena 'a' atau 'b' kosong.
+
+Memproses Baris 302: Symbol=HFT, Binary=, A=, B=, Active=False
+Melewatkan baris 302 karena 'a' atau 'b' kosong.
+
+Memproses Baris 303: Symbol=HOOK, Binary=, A=, B=, Active=False
+Melewatkan baris 303 karena 'a' atau 'b' kosong.
+
+Memproses Baris 304: Symbol=TIA, Binary=, A=, B=, Active=False
+Melewatkan baris 304 karena 'a' atau 'b' kosong.
+
+Memproses Baris 305: Symbol=TAO, Binary=, A=, B=, Active=False
+Melewatkan baris 305 karena 'a' atau 'b' kosong.
+
+Memproses Baris 306: Symbol=HIFI, Binary=, A=, B=, Active=False
+Melewatkan baris 306 karena 'a' atau 'b' kosong.
+
+Memproses Baris 307: Symbol=1000BONK, Binary=, A=, B=, Active=False
+Melewatkan baris 307 karena 'a' atau 'b' kosong.
+
+Memproses Baris 308: Symbol=BLUR, Binary=, A=, B=, Active=False
+Melewatkan baris 308 karena 'a' atau 'b' kosong.
+
+Memproses Baris 309: Symbol=SEI, Binary=, A=, B=, Active=False
+Melewatkan baris 309 karena 'a' atau 'b' kosong.
+
+Memproses Baris 310: Symbol=THE, Binary=, A=, B=, Active=False
+Melewatkan baris 310 karena 'a' atau 'b' kosong.
+
+Memproses Baris 311: Symbol=CGPT, Binary=, A=, B=, Active=False
+Melewatkan baris 311 karena 'a' atau 'b' kosong.
+
+Memproses Baris 312: Symbol=PEPE, Binary=, A=, B=, Active=False
+Melewatkan baris 312 karena 'a' atau 'b' kosong.
+
+Memproses Baris 313: Symbol=EDU, Binary=, A=, B=, Active=False
+Melewatkan baris 313 karena 'a' atau 'b' kosong.
+
+Memproses Baris 314: Symbol=BERA, Binary=, A=, B=, Active=False
+Melewatkan baris 314 karena 'a' atau 'b' kosong.
+
+Memproses Baris 315: Symbol=CYBER, Binary=, A=, B=, Active=False
+Melewatkan baris 315 karena 'a' atau 'b' kosong.
+
+Memproses Baris 316: Symbol=TURBO, Binary=, A=, B=, Active=False
+Melewatkan baris 316 karena 'a' atau 'b' kosong.
+
+Memproses Baris 317: Symbol=SWELL, Binary=, A=, B=, Active=False
+Melewatkan baris 317 karena 'a' atau 'b' kosong.
+
+Memproses Baris 318: Symbol=ORDI, Binary=, A=, B=, Active=False
+Melewatkan baris 318 karena 'a' atau 'b' kosong.
+
+Memproses Baris 319: Symbol=CETUS, Binary=, A=, B=, Active=False
+Melewatkan baris 319 karena 'a' atau 'b' kosong.
+
+Memproses Baris 320: Symbol=NTRN, Binary=, A=, B=, Active=False
+Melewatkan baris 320 karena 'a' atau 'b' kosong.
+
+Memproses Baris 321: Symbol=ZRO, Binary=, A=, B=, Active=False
+Melewatkan baris 321 karena 'a' atau 'b' kosong.
+
+Memproses Baris 322: Symbol=SCR, Binary=, A=, B=, Active=False
+Melewatkan baris 322 karena 'a' atau 'b' kosong.
+
+Memproses Baris 323: Symbol=ARKM, Binary=, A=, B=, Active=False
+Melewatkan baris 323 karena 'a' atau 'b' kosong.
+
+Memproses Baris 324: Symbol=1000000MOG, Binary=, A=, B=, Active=False
+Melewatkan baris 324 karena 'a' atau 'b' kosong.
+
+Memproses Baris 325: Symbol=BANANA, Binary=, A=, B=, Active=False
+Melewatkan baris 325 karena 'a' atau 'b' kosong.
+
+Memproses Baris 326: Symbol=PYTH, Binary=, A=, B=, Active=False
+Melewatkan baris 326 karena 'a' atau 'b' kosong.
+
+Memproses Baris 327: Symbol=BIGTIME, Binary=, A=, B=, Active=False
+Melewatkan baris 327 karena 'a' atau 'b' kosong.
+
+Memproses Baris 328: Symbol=TOKEN, Binary=, A=, B=, Active=False
+Melewatkan baris 328 karena 'a' atau 'b' kosong.
+
+Memproses Baris 329: Symbol=1000RATS, Binary=, A=, B=, Active=False
+Melewatkan baris 329 karena 'a' atau 'b' kosong.
+
+Memproses Baris 330: Symbol=WIF, Binary=, A=, B=, Active=False
+Melewatkan baris 330 karena 'a' atau 'b' kosong.
+
+Memproses Baris 331: Symbol=POPCAT, Binary=, A=, B=, Active=False
+Melewatkan baris 331 karena 'a' atau 'b' kosong.
+
+Memproses Baris 332: Symbol=MAVIA, Binary=, A=, B=, Active=False
+Melewatkan baris 332 karena 'a' atau 'b' kosong.
+
+Memproses Baris 333: Symbol=NOT, Binary=, A=, B=, Active=False
+Melewatkan baris 333 karena 'a' atau 'b' kosong.
+
+Memproses Baris 334: Symbol=DYM, Binary=, A=, B=, Active=False
+Melewatkan baris 334 karena 'a' atau 'b' kosong.
+
+Memproses Baris 335: Symbol=XAI, Binary=, A=, B=, Active=False
+Melewatkan baris 335 karena 'a' atau 'b' kosong.
+
+Memproses Baris 336: Symbol=PORT3, Binary=, A=, B=, Active=False
+Melewatkan baris 336 karena 'a' atau 'b' kosong.
+
+Memproses Baris 337: Symbol=ALT, Binary=, A=, B=, Active=False
+Melewatkan baris 337 karena 'a' atau 'b' kosong.
+
+Memproses Baris 338: Symbol=PONKE, Binary=, A=, B=, Active=False
+Melewatkan baris 338 karena 'a' atau 'b' kosong.
+
+Memproses Baris 339: Symbol=JUP, Binary=, A=, B=, Active=False
+Melewatkan baris 339 karena 'a' atau 'b' kosong.
+
+Memproses Baris 340: Symbol=AERO, Binary=, A=, B=, Active=False
+Melewatkan baris 340 karena 'a' atau 'b' kosong.
+
+Memproses Baris 341: Symbol=PIXEL, Binary=, A=, B=, Active=False
+Melewatkan baris 341 karena 'a' atau 'b' kosong.
+
+Memproses Baris 342: Symbol=VIRTUAL, Binary=, A=, B=, Active=False
+Melewatkan baris 342 karena 'a' atau 'b' kosong.
+
+Memproses Baris 343: Symbol=AEVO, Binary=, A=, B=, Active=False
+Melewatkan baris 343 karena 'a' atau 'b' kosong.
+
+Memproses Baris 344: Symbol=BRETT, Binary=, A=, B=, Active=False
+Melewatkan baris 344 karena 'a' atau 'b' kosong.
+
+Memproses Baris 345: Symbol=ZKJ, Binary=, A=, B=, Active=False
+Melewatkan baris 345 karena 'a' atau 'b' kosong.
+
+Memproses Baris 346: Symbol=IO, Binary=, A=, B=, Active=False
+Melewatkan baris 346 karena 'a' atau 'b' kosong.
+
+Memproses Baris 347: Symbol=BOME, Binary=, A=, B=, Active=False
+Melewatkan baris 347 karena 'a' atau 'b' kosong.
+
+Memproses Baris 348: Symbol=SLERF, Binary=, A=, B=, Active=False
+Melewatkan baris 348 karena 'a' atau 'b' kosong.
+
+Memproses Baris 349: Symbol=MEW, Binary=, A=, B=, Active=False
+Melewatkan baris 349 karena 'a' atau 'b' kosong.
+
+Memproses Baris 350: Symbol=ENA, Binary=, A=, B=, Active=False
+Melewatkan baris 350 karena 'a' atau 'b' kosong.
+
+Memproses Baris 351: Symbol=OMNI, Binary=, A=, B=, Active=False
+Melewatkan baris 351 karena 'a' atau 'b' kosong.
+
+Memproses Baris 352: Symbol=SAGA, Binary=, A=, B=, Active=False
+Melewatkan baris 352 karena 'a' atau 'b' kosong.
+
+Memproses Baris 353: Symbol=BB, Binary=, A=, B=, Active=False
+Melewatkan baris 353 karena 'a' atau 'b' kosong.
+
+Memproses Baris 354: Symbol=10000WHY, Binary=, A=, B=, Active=False
+Melewatkan baris 354 karena 'a' atau 'b' kosong.
+
+Memproses Baris 355: Symbol=KMNO, Binary=, A=, B=, Active=False
+Melewatkan baris 355 karena 'a' atau 'b' kosong.
+
+Memproses Baris 356: Symbol=DRIFT, Binary=, A=, B=, Active=False
+Melewatkan baris 356 karena 'a' atau 'b' kosong.
+
+Memproses Baris 357: Symbol=MOCA, Binary=, A=, B=, Active=False
+Melewatkan baris 357 karena 'a' atau 'b' kosong.
+
+Memproses Baris 358: Symbol=SOPH, Binary=, A=, B=, Active=False
+Melewatkan baris 358 karena 'a' atau 'b' kosong.
+
+Memproses Baris 359: Symbol=G, Binary=, A=, B=, Active=False
+Melewatkan baris 359 karena 'a' atau 'b' kosong.
+
+Memproses Baris 360: Symbol=STO, Binary=, A=, B=, Active=False
+Melewatkan baris 360 karena 'a' atau 'b' kosong.
+
+Memproses Baris 361: Symbol=HYPE, Binary=, A=, B=, Active=False
+Melewatkan baris 361 karena 'a' atau 'b' kosong.
+
+Memproses Baris 362: Symbol=BABY, Binary=, A=, B=, Active=False
+Melewatkan baris 362 karena 'a' atau 'b' kosong.
+
+Memproses Baris 363: Symbol=UXLINK, Binary=, A=, B=, Active=False
+Melewatkan baris 363 karena 'a' atau 'b' kosong.
+
+Memproses Baris 364: Symbol=PUFFER, Binary=, A=, B=, Active=False
+Melewatkan baris 364 karena 'a' atau 'b' kosong.
+
+Memproses Baris 365: Symbol=NEIROETH, Binary=, A=, B=, Active=False
+Melewatkan baris 365 karena 'a' atau 'b' kosong.
+
+Memproses Baris 366: Symbol=NEIROCTO, Binary=, A=, B=, Active=False
+Melewatkan baris 366 karena 'a' atau 'b' kosong.
+
+Memproses Baris 367: Symbol=CAT, Binary=, A=, B=, Active=False
+Melewatkan baris 367 karena 'a' atau 'b' kosong.
+
+Memproses Baris 368: Symbol=KAIA, Binary=, A=, B=, Active=False
+Melewatkan baris 368 karena 'a' atau 'b' kosong.
+
+Memproses Baris 369: Symbol=GRASS, Binary=, A=, B=, Active=False
+Melewatkan baris 369 karena 'a' atau 'b' kosong.
+
+Memproses Baris 370: Symbol=CATI, Binary=, A=, B=, Active=False
+Melewatkan baris 370 karena 'a' atau 'b' kosong.
+
+Memproses Baris 371: Symbol=MOODENG, Binary=, A=, B=, Active=False
+Melewatkan baris 371 karena 'a' atau 'b' kosong.
+
+Memproses Baris 372: Symbol=WCT, Binary=, A=, B=, Active=False
+Melewatkan baris 372 karena 'a' atau 'b' kosong.
+
+Memproses Baris 373: Symbol=CHEEMS, Binary=, A=, B=, Active=False
+Melewatkan baris 373 karena 'a' atau 'b' kosong.
+
+Memproses Baris 374: Symbol=DEEP, Binary=, A=, B=, Active=False
+Melewatkan baris 374 karena 'a' atau 'b' kosong.
+
+Memproses Baris 375: Symbol=GOAT, Binary=, A=, B=, Active=False
+Melewatkan baris 375 karena 'a' atau 'b' kosong.
+
+Memproses Baris 376: Symbol=FARTCOIN, Binary=, A=, B=, Active=False
+Melewatkan baris 376 karena 'a' atau 'b' kosong.
+
+Memproses Baris 377: Symbol=PNUT, Binary=, A=, B=, Active=False
+Melewatkan baris 377 karena 'a' atau 'b' kosong.
+
+Memproses Baris 378: Symbol=SYRUP, Binary=, A=, B=, Active=False
+Melewatkan baris 378 karena 'a' atau 'b' kosong.
+
+Memproses Baris 379: Symbol=AI16Z, Binary=, A=, B=, Active=False
+Melewatkan baris 379 karena 'a' atau 'b' kosong.
+
+Memproses Baris 380: Symbol=ZEREBRO, Binary=, A=, B=, Active=False
+Melewatkan baris 380 karena 'a' atau 'b' kosong.
+
+Memproses Baris 381: Symbol=AIXBT, Binary=, A=, B=, Active=False
+Melewatkan baris 381 karena 'a' atau 'b' kosong.
+
+Memproses Baris 382: Symbol=MORPHO, Binary=, A=, B=, Active=False
+Melewatkan baris 382 karena 'a' atau 'b' kosong.
+
+Memproses Baris 383: Symbol=AVAAI, Binary=, A=, B=, Active=False
+Melewatkan baris 383 karena 'a' atau 'b' kosong.
+
+Memproses Baris 384: Symbol=BANANAS31, Binary=, A=, B=, Active=False
+Melewatkan baris 384 karena 'a' atau 'b' kosong.
+
+Memproses Baris 385: Symbol=BOBBSC, Binary=, A=, B=, Active=False
+Melewatkan baris 385 karena 'a' atau 'b' kosong.
+
+Memproses Baris 386: Symbol=VANA, Binary=, A=, B=, Active=False
+Melewatkan baris 386 karena 'a' atau 'b' kosong.
+
+Memproses Baris 387: Symbol=GRIFFAIN, Binary=, A=, B=, Active=False
+Melewatkan baris 387 karena 'a' atau 'b' kosong.
+
+Memproses Baris 388: Symbol=SONIC, Binary=, A=, B=, Active=False
+Melewatkan baris 388 karena 'a' atau 'b' kosong.
+
+Memproses Baris 389: Symbol=BMT, Binary=, A=, B=, Active=False
+Melewatkan baris 389 karena 'a' atau 'b' kosong.
+
+Memproses Baris 390: Symbol=GPS, Binary=, A=, B=, Active=False
+Melewatkan baris 390 karena 'a' atau 'b' kosong.
+
+Memproses Baris 391: Symbol=PLUME, Binary=, A=, B=, Active=False
+Melewatkan baris 391 karena 'a' atau 'b' kosong.
+
+Memproses Baris 392: Symbol=VINE, Binary=, A=, B=, Active=False
+Melewatkan baris 392 karena 'a' atau 'b' kosong.
+
+Memproses Baris 393: Symbol=BID, Binary=, A=, B=, Active=False
+Melewatkan baris 393 karena 'a' atau 'b' kosong.
+
+Memproses Baris 394: Symbol=VVV, Binary=, A=, B=, Active=False
+Melewatkan baris 394 karena 'a' atau 'b' kosong.
+
+Memproses Baris 395: Symbol=JELLYJELLY, Binary=, A=, B=, Active=False
+Melewatkan baris 395 karena 'a' atau 'b' kosong.
+
+Memproses Baris 396: Symbol=SIGN, Binary=, A=, B=, Active=False
+Melewatkan baris 396 karena 'a' atau 'b' kosong.
+
+Memproses Baris 397: Symbol=IP, Binary=, A=, B=, Active=False
+Melewatkan baris 397 karena 'a' atau 'b' kosong.
+
+Memproses Baris 398: Symbol=TST, Binary=, A=, B=, Active=False
+Melewatkan baris 398 karena 'a' atau 'b' kosong.
+
+Memproses Baris 399: Symbol=SHELL, Binary=, A=, B=, Active=False
+Melewatkan baris 399 karena 'a' atau 'b' kosong.
+
+Memproses Baris 400: Symbol=HEI, Binary=, A=, B=, Active=False
+Melewatkan baris 400 karena 'a' atau 'b' kosong.
+
+Memproses Baris 401: Symbol=BROCCOLI, Binary=, A=, B=, Active=False
+Melewatkan baris 401 karena 'a' atau 'b' kosong.
+
+Memproses Baris 402: Symbol=KAITO, Binary=, A=, B=, Active=False
+Melewatkan baris 402 karena 'a' atau 'b' kosong.
+
+Memproses Baris 403: Symbol=SIREN, Binary=, A=, B=, Active=False
+Melewatkan baris 403 karena 'a' atau 'b' kosong.
+
+Memproses Baris 404: Symbol=TUT, Binary=, A=, B=, Active=False
+Melewatkan baris 404 karena 'a' atau 'b' kosong.
+
+Memproses Baris 405: Symbol=MUBARAK, Binary=, A=, B=, Active=False
+Melewatkan baris 405 karena 'a' atau 'b' kosong.
+
+Memproses Baris 406: Symbol=NXPC, Binary=, A=, B=, Active=False
+Melewatkan baris 406 karena 'a' atau 'b' kosong.
+
+Memproses Baris 407: Symbol=BR, Binary=, A=, B=, Active=False
+Melewatkan baris 407 karena 'a' atau 'b' kosong.
+
+Memproses Baris 408: Symbol=PARTI, Binary=, A=, B=, Active=False
+Melewatkan baris 408 karena 'a' atau 'b' kosong.
+
+Memproses Baris 409: Symbol=WAL, Binary=, A=, B=, Active=False
+Melewatkan baris 409 karena 'a' atau 'b' kosong.
+
+Memproses Baris 410: Symbol=PUMP, Binary=, A=, B=, Active=False
+Melewatkan baris 410 karena 'a' atau 'b' kosong.
+
+Memproses Baris 411: Symbol=KERNEL, Binary=, A=, B=, Active=False
+Melewatkan baris 411 karena 'a' atau 'b' kosong.
+
+Memproses Baris 412: Symbol=AGT, Binary=, A=, B=, Active=False
+Melewatkan baris 412 karena 'a' atau 'b' kosong.
+
+Memproses Baris 413: Symbol=PROMPT, Binary=, A=, B=, Active=False
+Melewatkan baris 413 karena 'a' atau 'b' kosong.
+
+Memproses Baris 414: Symbol=HYPER, Binary=, A=, B=, Active=False
+Melewatkan baris 414 karena 'a' atau 'b' kosong.
+
+Memproses Baris 415: Symbol=BANK, Binary=, A=, B=, Active=False
+Melewatkan baris 415 karena 'a' atau 'b' kosong.
+
+Memproses Baris 416: Symbol=SKYAI, Binary=, A=, B=, Active=False
+Melewatkan baris 416 karena 'a' atau 'b' kosong.
+
+Memproses Baris 417: Symbol=AIOT, Binary=, A=, B=, Active=False
+Melewatkan baris 417 karena 'a' atau 'b' kosong.
+
+Memproses Baris 418: Symbol=B2, Binary=, A=, B=, Active=False
+Melewatkan baris 418 karena 'a' atau 'b' kosong.
+
+Memproses Baris 419: Symbol=HAEDAL, Binary=, A=, B=, Active=False
+Melewatkan baris 419 karena 'a' atau 'b' kosong.
+
+Memproses Baris 420: Symbol=LA, Binary=, A=, B=, Active=False
+Melewatkan baris 420 karena 'a' atau 'b' kosong.
+
+Memproses Baris 421: Symbol=HUMA, Binary=, A=, B=, Active=False
+Melewatkan baris 421 karena 'a' atau 'b' kosong.
+
+Menambahkan 13 baris ke sheet 'historical'...
+Penambahan ke sheet historical selesai.
+
+Mengosongkan 13 baris di sheet utama (kecuali Symbol)...
+Pengosongan sel di sheet utama selesai.
+
+Melakukan 73 pembaruan kolom 'active' di sheet utama...
+Pembaruan kolom 'active' selesai.
+Total waktu eksekusi: 104.30 detik.
+Proses selesai.
